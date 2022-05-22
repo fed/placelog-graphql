@@ -1,0 +1,3 @@
+mutation AddAttachment($object: attachments_insert_input!) {
+  insert_attachments_one(object: $object)
+}

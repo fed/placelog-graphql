@@ -1,0 +1,15 @@
+query GetPlaces {
+  places {
+    description
+    id
+    lat
+    lng
+    name
+    visited
+    attachments {
+      id
+      type
+      url
+    }
+  }
+}

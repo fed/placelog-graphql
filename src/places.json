@@ -1,0 +1,1850 @@
+{
+  "places": [
+    {
+      "_id": "5a078c3f2374022449cead13",
+      "name": "Haiku Stairs",
+      "description": "",
+      "visited": false,
+      "location": { "lat": 21.3956, "lng": -157.824 },
+      "attachments": [
+        {
+          "url": "http://www.24hviralphotos.com/wp-content/uploads/2017/09/7-3.jpg",
+          "type": "image"
+        }
+      ]
+    },
+    {
+      "_id": "5a078c3f2374022449cead14",
+      "name": "Abel Tasman Coast Track",
+      "description": "The Abel Tasman Coast Track is a 60 kilometres long walking track within the Abel Tasman National Park in New Zealand.",
+      "visited": false,
+      "location": { "lat": -40.9124183, "lng": 172.9822601 },
+      "attachments": [
+        { "url": "http://www.doc.govt.nz/abeltasmantrack", "type": "link" },
+        {
+          "url": "http://www.doc.govt.nz/pagefiles/12943/abel-tasman-1920.jpg",
+          "type": "image"
+        }
+      ]
+    },
+    {
+      "_id": "5a078c3f2374022449cead15",
+      "name": "Clear blue lagoons of the Fiji Islands",
+      "description": "Blue Lagoon Cruises visit the Mamanuca and Yasawa Islands.",
+      "visited": false,
+      "location": { "lat": -17.666667, "lng": 177.083333 },
+      "attachments": [
+        {
+          "url": "http://www.24hviralphotos.com/wp-content/uploads/2017/09/9-3.jpg",
+          "type": "image"
+        },
+        {
+          "url": "http://www.bluelagooncruises.com/destination-fiji-islands/mamanuca-islands/",
+          "type": "link"
+        }
+      ]
+    },
+    {
+      "_id": "5a078c3f2374022449cead16",
+      "name": "Bastei Bridge",
+      "description": "Bastei Bridge is a 76,5 m man made bridge which connects the rock formations. On the golden triangle hiking trail you can explore many sights such as the ruins of Stadt Wehlen castle, of course Bastei Bridge and so called Schwedenlöcher.",
+      "visited": false,
+      "location": { "lat": 50.961912, "lng": 14.073166 },
+      "attachments": [
+        {
+          "url": "http://www.24hviralphotos.com/wp-content/uploads/2017/09/12-2.jpg",
+          "type": "image"
+        }
+      ]
+    },
+    {
+      "_id": "5a078c3f2374022449cead17",
+      "name": "Angkor Wat Temple",
+      "description": "Angkor Wat is a temple complex in Cambodia and the largest religious monument in the world.",
+      "visited": false,
+      "location": { "lat": 13.412469, "lng": 103.866986 },
+      "attachments": [
+        {
+          "url": "http://www.24hviralphotos.com/wp-content/uploads/2017/09/11-2.jpg",
+          "type": "image"
+        }
+      ]
+    },
+    {
+      "_id": "5a078c3f2374022449cead18",
+      "name": "Kizhi Pogost",
+      "description": "Island with two large wooden churches and a bell-tower.",
+      "visited": false,
+      "location": { "lat": 62.066667, "lng": 35.225 },
+      "attachments": [
+        {
+          "url": "http://www.24hviralphotos.com/wp-content/uploads/2017/09/15-1.jpg",
+          "type": "image"
+        }
+      ]
+    },
+    {
+      "_id": "5a078c3f2374022449cead19",
+      "name": "Ice Caves in Vatnajökull National Park",
+      "description": "Sometimes called Crystal Caves, the ice caves in Icelandic glaciers are a truly mesmerizing wonder of nature.",
+      "visited": false,
+      "location": { "lat": 64.421969, "lng": -16.790203 },
+      "attachments": [
+        {
+          "url": "http://www.24hviralphotos.com/wp-content/uploads/2017/09/8-3.jpg",
+          "type": "image"
+        }
+      ]
+    },
+    {
+      "_id": "5a078c3f2374022449cead1a",
+      "name": "Moraine Lake",
+      "description": "Moraine Lake is a glacially fed lake in Banff National Park.",
+      "visited": false,
+      "location": { "lat": 51.321742, "lng": -116.186005 },
+      "attachments": [
+        {
+          "url": "http://www.24hviralphotos.com/wp-content/uploads/2017/09/4-4.jpg",
+          "type": "image"
+        }
+      ]
+    },
+    {
+      "_id": "5a0a0053f4a85f2a6a64488c",
+      "name": "Isola Bella (Lago Maggiore)",
+      "description": "Isola Bella is 320 metres long by 400 metres wide and is divided between the Palace, its Italianate garden, and a small fishing village.",
+      "location": { "lat": 45.895278, "lng": 8.527222 },
+      "attachments": [
+        {
+          "url": "https://www.dimorestoricheitaliane.it/wp-content/uploads/2017/01/isola-bella-piemonte-e1484575469688.jpg?x85732",
+          "type": "image"
+        }
+      ]
+    },
+    {
+      "_id": "5a0a04b38e5793003f63cc48",
+      "name": "Coney Island, NYC",
+      "description": "Coney Island is a residential Brooklyn neighborhood that morphs into a relaxation and entertainment destination each summer. Locals and tourists crowd its beach, the Wonder Wheel and Luna Park, an amusement park featuring the famed Cyclone roller coaster. Street performers, the Circus Sideshow and the Mermaid Parade in June lend an eccentric vibe.",
+      "location": { "lat": 40.5749, "lng": -73.9859 },
+      "attachments": [
+        { "url": "https://i.imgur.com/1QjxKkJ.png", "type": "image" },
+        { "url": "https://i.imgur.com/uO1Mi3s.png", "type": "image" }
+      ]
+    },
+    {
+      "_id": "5a181f71734d1d3ed22defa8",
+      "name": "Atlantic ocean road in Norway",
+      "description": "",
+      "visited": false,
+      "location": { "lat": 63.016814, "lng": 7.354819 },
+      "attachments": [
+        {
+          "url": "https://scontent-eze1-1.xx.fbcdn.net/v/t1.0-9/23755360_1921616674815769_8302115342443332309_n.jpg?oh=afa7835ca19d477f9d456bfa7aa5495a&oe=5A96F512",
+          "type": "image"
+        }
+      ]
+    },
+    {
+      "_id": "5a1ee730f36d280cc00ff837",
+      "name": "Milky way over Roy's Peak",
+      "description": "This is near Wanaka, South island, New Zealand.",
+      "visited": false,
+      "location": { "lat": -44.7, "lng": 169.05 },
+      "attachments": [
+        {
+          "url": "https://scontent-eze1-1.xx.fbcdn.net/v/t1.0-9/23905645_1924850714492365_6481451163752192306_n.jpg?oh=8e9baf4e0c414a49c2f49610584f4d4d&oe=5ACF0A2D",
+          "type": "image"
+        }
+      ]
+    },
+    {
+      "_id": "5a2432f6f36d280fefe28082",
+      "name": "Saturnia Thermal Baths",
+      "description": "Natural spa with waterfalls in Saturnia, Tuscany, Italy.",
+      "visited": false,
+      "location": { "lat": 42.65816, "lng": 11.515996 },
+      "attachments": [
+        {
+          "url": "https://scontent-eze1-1.xx.fbcdn.net/v/t1.0-9/24067800_1926964907614279_7839274298570391884_n.jpg?oh=104c5b8f1126d6a973eab48c22ad1f2b&oe=5ACE4DB2",
+          "type": "image"
+        }
+      ]
+    },
+    {
+      "_id": "5a2848baf36d281a42261bae",
+      "name": "Whitehaven Beach, Queensland, Australia",
+      "description": "",
+      "visited": false,
+      "location": { "lat": null, "lng": null },
+      "attachments": [
+        {
+          "url": "https://s3.amazonaws.com/arc-wordpress-client-uploads/infobae-wp/wp-content/uploads/2017/11/29131148/Playas_0019_Playa-Whitehaven-Australia.jpg",
+          "type": "image"
+        }
+      ]
+    },
+    {
+      "_id": "5b1223e7f7efbb003f8e0dc8",
+      "name": "Toboggan Hill Park, Port Stephens",
+      "description": "",
+      "visited": false,
+      "location": { "lat": -32.7352083, "lng": 152.1170492 },
+      "attachments": [
+        { "url": "http://www.tobogganhillpark.com", "type": "link" }
+      ]
+    },
+    {
+      "_id": "5a0a05b48e5793003f63cc49",
+      "name": "Belvedere Castle and Central Park Zoo",
+      "description": "Winter season would be tops!",
+      "location": { "lat": 40.782865, "lng": -73.965355 },
+      "attachments": [
+        { "url": "https://i.imgur.com/7Pl1UJX.png", "type": "image" },
+        { "url": "https://i.imgur.com/1ZL4GSn.png", "type": "image" }
+      ]
+    },
+    {
+      "_id": "5a0a06798e5793003f63cc4a",
+      "name": "Manhattan's skyline from Brooklyn's shore",
+      "description": "",
+      "location": { "lat": 40.704172, "lng": -73.985882 },
+      "attachments": [
+        { "url": "https://i.imgur.com/rWg5oXa.png", "type": "image" },
+        { "url": "https://i.imgur.com/9mUXPHt.png", "type": "image" }
+      ]
+    },
+    {
+      "_id": "5a141367734d1d7a8aadc595",
+      "name": "Rubjerg Knude Lighthouse",
+      "description": "Lighthouse surrounded by Sand dunes on the North sea",
+      "location": { "lat": 57.448905, "lng": 9.774202 },
+      "attachments": [
+        {
+          "url": "https://www.infobae.com/new-resizer/6N29YxWUmVQGOMWoAf21tTuQ1P8=/600x0/filters:quality(100)/s3.amazonaws.com/arc-wordpress-client-uploads/infobae-wp/wp-content/uploads/2017/11/12160340/dinamarca-1.jpg",
+          "type": "image"
+        }
+      ]
+    },
+    {
+      "_id": "5a1413e7734d1d7a8aadc6a4",
+      "name": "Man Meets the Sea",
+      "description": "Esbjerg Harbour",
+      "location": { "lat": 55.487763, "lng": 8.411186 },
+      "attachments": [
+        {
+          "url": "https://www.infobae.com/new-resizer/zuBa3umkJVrWN5H_MjlgnQ8HfJo=/600x0/filters:quality(100)/s3.amazonaws.com/arc-wordpress-client-uploads/infobae-wp/wp-content/uploads/2017/11/12160346/dinamarca-4.jpg",
+          "type": "image"
+        }
+      ]
+    },
+    {
+      "_id": "5a14149e734d1d7a8aadc708",
+      "name": "Lego House, Billund",
+      "description": "",
+      "location": { "lat": 55.730991, "lng": 9.115754 },
+      "attachments": [
+        {
+          "url": "https://www.infobae.com/new-resizer/ZtC3gAEffv5L6tXX_uB6Cm_CljA=/600x0/filters:quality(100)/s3.amazonaws.com/arc-wordpress-client-uploads/infobae-wp/wp-content/uploads/2017/02/07101551/HighRes_LEGO-House-birds-eye.jpg",
+          "type": "image"
+        }
+      ]
+    },
+    {
+      "_id": "5a1412f0734d1d7a8aadc49d",
+      "name": "Frederiksborg Castle, Hillerød",
+      "description": "Gardens and Natural History Museum",
+      "location": { "lat": 55.934965, "lng": 12.301272 },
+      "attachments": [
+        {
+          "url": "https://www.infobae.com/new-resizer/FNymmfdyhFLeNYHFt_TiHA4G4x4=/600x0/filters:quality(100)/s3.amazonaws.com/arc-wordpress-client-uploads/infobae-wp/wp-content/uploads/2017/11/12160319/estonia-experience-castillo-dinamarca.jpg",
+          "type": "image"
+        },
+        {
+          "url": "https://www.infobae.com/new-resizer/BZOb8fnPL_pYIQ6Tl94vXroD3CY=/600x0/filters:quality(100)/s3.amazonaws.com/arc-wordpress-client-uploads/infobae-wp/wp-content/uploads/2017/11/12160315/dinamarca.jpg",
+          "type": "image"
+        }
+      ]
+    },
+    {
+      "_id": "5a1ef01df36d280cc00fff1e",
+      "name": "Melbourne",
+      "description": "Con 4.500.000 habitantes, Melbourne es la segunda metrópoli más grande de Australia -detrás de Sidney, su eterna rival- y fue la capital del país entre 1901 y 1927, cuando se la trasladó a la planificada Canberra. En la bahía Port Phillip y en la desembocadura del río Yarra, Melbourne creció vertiginosamente en la segunda mitad del siglo XIX, a partir de la fiebre del oro que sedujo a inmigrantes de todas partes del mundo. En 1851 se descubrió el oro en la región y en solo un año Melbourne pasó de 77.000 a 340.000 habitantes, dejando de ser un pueblo perdido en el hemisferio Sur para convertirse en la “Londres de las antípodas”. En 1835, Melbourne nació de la mano de John Batman, quien adquirió terrenos de los indígenas mediante un tratado ilegal en el que les estregó espejos, hachas, cuchillos y mantas, entre otras cosas. Poco faltó para que llamaran Batmania a la ciudad, pero ganó el nombre del primer ministro británico, Lord Melbourne. Detrás del oro del siglo XIX y con las oleadas migratorias del XX, Melbourne adquirió su carácter cosmopolita, reflejado en los barrios: desde el extenso Chinatown hasta el bohemio Fitzroy, un polo gastronómico y de diseño con eje en la hipster Brunswick Street. Se recomienda subir al histórico vagón de madera #35 “City Circle Tram” porque permite bajar y subir en los principales atractivos la ciudad, como la Galería Nacional de Victoria, la catedral anglicana St Paul, el Acuario, el Zoo, el Museo de Melbourne con pantallas IMAX y el edificio Royal Exhibition de 1880 en los Jardines Carlton, el Mercado de la Reina Victoria, la catedral católica St Patrick en los Jardines Fitzroy, el Botánico de 36 hectáreas, el estadio Melbourne Cricket Ground (MCG) y la torre Eureka (el mirador más alto del hemisferio Sur). Es famoso el monumento que conmemora el Movimiento de las Ocho Horas, iniciado en 1856: en lo alto ostenta un triple 8 que ayuda a comprender la filosofía de esta ciudad sin estrés porque el ideal de una jornada consiste en 8 horas de trabajo, 8 horas de ocio y 8 horas de descanso. Conocer las cercanas playas de St Kilda y Brighton, con los lockers coloridos de los surfistas. En el Parque de Port Campbell se sobrevuela en helicóptero un manto verde cubierto de ovejas diminutas, junto a olas que mueren en la arena y acantalidados que resguardan a las famosas torres de piedra caliza.",
+      "visited": false,
+      "location": { "lat": -37.813628, "lng": 144.963058 },
+      "attachments": [
+        {
+          "url": "https://images.clarin.com/2017/11/24/ryG15gIeG_930x525.jpg",
+          "type": "image"
+        },
+        {
+          "url": "https://images.clarin.com/2017/11/24/rJ7lqlIez_720x0.jpg",
+          "type": "image"
+        },
+        {
+          "url": "https://images.clarin.com/2017/11/24/S1MbqlUgf_720x0.jpg",
+          "type": "image"
+        },
+        {
+          "url": "https://images.clarin.com/2017/11/24/S1VI9eUgf_720x0.jpg",
+          "type": "image"
+        },
+        {
+          "url": "https://images.clarin.com/2017/11/24/ryG15gIeG_720x0.jpg",
+          "type": "image"
+        },
+        {
+          "url": "https://images.clarin.com/2017/11/24/Syp-5gUez_720x0.jpg",
+          "type": "image"
+        },
+        {
+          "url": "https://images.clarin.com/2017/11/24/HyFJclLlM_720x0.jpg",
+          "type": "image"
+        },
+        {
+          "url": "https://images.clarin.com/2017/11/24/r1sz9xIgM_720x0.jpg",
+          "type": "image"
+        },
+        {
+          "url": "https://images.clarin.com/2017/11/24/rkSb5e8gG_720x0.jpg",
+          "type": "image"
+        },
+        {
+          "url": "https://images.clarin.com/2017/11/24/SyWE9gIgz_720x0.jpg",
+          "type": "image"
+        },
+        {
+          "url": "https://images.clarin.com/2017/11/24/BykK5lIgz_720x0.jpg",
+          "type": "image"
+        },
+        {
+          "url": "https://images.clarin.com/2017/11/24/S1Gw9eLeG_720x0.jpg",
+          "type": "image"
+        },
+        {
+          "url": "https://www.clarin.com/viajes/melbourne-mejor-ciudad-mundo-vivir_0_SkCUQlUez.html",
+          "type": "link"
+        }
+      ]
+    },
+    {
+      "_id": "5a1ef68df36d280cc0100503",
+      "name": "Queenstown and the Northland Region",
+      "description": "Queenstwon está a orillas del enorme lago Wakatipu, en cuyo extremo norte está el pintoresco pueblo de Glenorchy, uno de los epicentros de la aventura sureña. Aquí una de las actividades principales es el jet boat por el río Dart, un bote que acelera como si quisiera levantar vuelo –llega a unos ventosos 90 km/h–, surfeando por distintos brazos en que se divide el río. Cada tanto se detiene como para tomar aire y admirar el valle rodeado de picos nevados donde se filmaron escenas de películas como El Señor de los Anillos, Límite Vertical, X-Men el origen y Narnia. Otra pasión es el surf, ya que el país tiene más de 15.000 kilómetros de costas, para todos los gustos: al norte de la isla Norte, y sobre todo en el este, grandes playas de arena ideales para nadar, surfear, tomar sol, caminar. Del lado oeste, playas de arena oscura y más agrestes, como Baylys Beach, Mitimiti y la famosa Playa de las noventa millas, paraíso surfer. En el extremo norte, Giant Te Paki tiene grandes dunas, perfectas para el sandboard.",
+      "visited": false,
+      "location": { "lat": -45.031162, "lng": 168.662644 },
+      "attachments": [
+        {
+          "url": "https://images.clarin.com/2016/02/26/S1a8-reNx_930x525.jpg",
+          "type": "image"
+        },
+        {
+          "url": "https://images.clarin.com/2016/02/26/B1IKY_xVg_720x0.jpg",
+          "type": "image"
+        },
+        {
+          "url": "https://images.clarin.com/2016/02/26/H1V5Yux4x_720x0.jpg",
+          "type": "image"
+        },
+        {
+          "url": "https://www.clarin.com/viajes/destinos/oceania/razones-visitar-Nueva-Zelanda_0_HkN-mpuDQe.html",
+          "type": "link"
+        }
+      ]
+    },
+    {
+      "_id": "5a1ef70af36d280cc01005b1",
+      "name": "Huacachina Oasis, Peru",
+      "description": "Ubicado a solo 5 km de la ciudad de Ica y también conocido como el 'Oasis de América', el oasis de Huacachina es uno de los pocos que existen en el continente. Se trata de un oasis natural en medio del desierto, rodeado de un pequeño pueblo y de abundante vegetación. Con un abanico de actividades para elegir, es el destino perfecto para los aventureros, los paseos en buggy y el sandboarding como algunas de las principales atracciones que ofrecen a los locales.",
+      "visited": false,
+      "location": { "lat": -14.087459, "lng": -75.762586 },
+      "attachments": [
+        {
+          "url": "https://www.infobae.com/new-resizer/_xmx84UM2STOk5wxgxgDJC6vU6A=/600x0/filters:quality(100)/s3.amazonaws.com/arc-wordpress-client-uploads/infobae-wp/wp-content/uploads/2017/11/13162938/GettyImages-845479528.jpg",
+          "type": "image"
+        },
+        {
+          "url": "https://www.infobae.com/new-resizer/gZWOqgGUWFO2IRrDcdlNxnifeis=/600x0/filters:quality(100)/s3.amazonaws.com/arc-wordpress-client-uploads/infobae-wp/wp-content/uploads/2017/11/13165243/huacachina.jpg",
+          "type": "image"
+        },
+        {
+          "url": "https://www.infobae.com/turismo/2017/11/29/paraisos-a-la-vuelta-de-la-esquina-los-7-destinos-mas-maravillosos-latinoamericanos/",
+          "type": "link"
+        }
+      ]
+    },
+    {
+      "_id": "5a255b55f36d280fefe3191f",
+      "name": "Rowley Shoals Diving/Snorkelling Adventure Cruise",
+      "description": "The Rowley Shoals Marine Park lies off the coast of Broome in Australia's northwest. Made up of three coral atolls, with untouched coral gardens, incredible marine life and clear lagoons, the Rowley Shoals are one of WA's best diving and snorkelling experiences. @truenorthadventurecruises visits this natural wonder between September and November each year.",
+      "visited": false,
+      "location": { "lat": -17.333333, "lng": 119.166667 },
+      "attachments": [
+        { "url": "https://www.instagram.com/p/BcOrX8ZjoyE/", "type": "link" }
+      ]
+    },
+    {
+      "_id": "5a2848fef36d281a42261c28",
+      "name": "Navagio Beach, Greece",
+      "description": "",
+      "visited": false,
+      "location": { "lat": null, "lng": null },
+      "attachments": [
+        {
+          "url": "https://s3.amazonaws.com/arc-wordpress-client-uploads/infobae-wp/wp-content/uploads/2017/11/29131048/Playas_0006_Playa-de-Navagio-Grecia.jpg",
+          "type": "image"
+        }
+      ]
+    },
+    {
+      "_id": "5a28491ef36d281a42261c77",
+      "name": "Baía Dos Porcos, Brazil",
+      "description": "",
+      "visited": false,
+      "location": { "lat": null, "lng": null },
+      "attachments": [
+        {
+          "url": "https://s3.amazonaws.com/arc-wordpress-client-uploads/infobae-wp/wp-content/uploads/2017/11/29131032/Playas_0003_Baia-Dos-Porcos-Brasil.jpg",
+          "type": "image"
+        }
+      ]
+    },
+    {
+      "_id": "5a28494ff36d281a42261c87",
+      "name": "Playa Paraíso, Mexico",
+      "description": "Elegantes palmeras, arenas blancas, aguas turquesas: esta playa lo tiene todo. Las aguas son bastante poco profundas, por lo que son ideales para familias.",
+      "visited": false,
+      "location": { "lat": null, "lng": null },
+      "attachments": [
+        {
+          "url": "https://s3.amazonaws.com/arc-wordpress-client-uploads/infobae-wp/wp-content/uploads/2017/11/29131153/Playas_0020_Playa-Para%C3%ADso-M%C3%A9xico.jpg",
+          "type": "image"
+        }
+      ]
+    },
+    {
+      "_id": "5a28496bf36d281a42261c8c",
+      "name": "Hyams Beach, Australia",
+      "description": "",
+      "visited": false,
+      "location": { "lat": null, "lng": null },
+      "attachments": [
+        {
+          "url": "https://s3.amazonaws.com/arc-wordpress-client-uploads/infobae-wp/wp-content/uploads/2017/11/29131108/Playas_0010_Playa-Hyams-Australia.jpg",
+          "type": "image"
+        }
+      ]
+    },
+    {
+      "_id": "5a28498cf36d281a42261ca3",
+      "name": "Playa escondida, Mexico",
+      "description": "Parece sacada de una película de ciencia ficción, pero en realidad es una amplia caverna de arena con acceso al océano Pacífico. Situada en una de las Islas Marieta, hay que nadar a través de un túnel corto para llegar a la playa.",
+      "visited": false,
+      "location": { "lat": null, "lng": null },
+      "attachments": [
+        {
+          "url": "https://s3.amazonaws.com/arc-wordpress-client-uploads/infobae-wp/wp-content/uploads/2017/11/29131019/Playas_Playa-escondida-Mexico.jpg",
+          "type": "image"
+        }
+      ]
+    },
+    {
+      "_id": "5a2849b3f36d281a42261cc1",
+      "name": "Trunk Bay, Virgin Islands",
+      "description": "Parte del Parque Nacional de las Islas Vírgenes, esta bahía es un éxito entre los excursionistas y amantes de la naturaleza.",
+      "visited": false,
+      "location": { "lat": null, "lng": null },
+      "attachments": [
+        {
+          "url": "https://s3.amazonaws.com/arc-wordpress-client-uploads/infobae-wp/wp-content/uploads/2017/11/29131120/Playas_0013_Trunk-Bay-Islas-V%C3%ADrgenes.jpg",
+          "type": "image"
+        }
+      ]
+    },
+    {
+      "_id": "5a2849d5f36d281a42261cd7",
+      "name": "Maya Bay, Thailand",
+      "description": "Una espectacular playa de arena blanca y agua cristalina, rodeada de montañas que salen abruptamente desde el mar.",
+      "visited": false,
+      "location": { "lat": null, "lng": null },
+      "attachments": [
+        {
+          "url": "https://s3.amazonaws.com/arc-wordpress-client-uploads/infobae-wp/wp-content/uploads/2017/11/29131028/Playas_0002_Maya-Bay-Tailandia.jpg",
+          "type": "image"
+        }
+      ]
+    },
+    {
+      "_id": "5a2849faf36d281a42261d23",
+      "name": "Pig Beach, Bahamas",
+      "description": "Llamada así cariñosamente, en sus playas los cerdos salvajes conviven con los que se acercan a una pequeña isla, situada en el archipiélago de las Bahamas de Exuma, en la isla de Big Major Cay.",
+      "visited": false,
+      "location": { "lat": null, "lng": null },
+      "attachments": [
+        {
+          "url": "https://s3.amazonaws.com/arc-wordpress-client-uploads/infobae-wp/wp-content/uploads/2017/11/29131023/Playas_0001_Pig-Beach-Bahamas-2.jpg",
+          "type": "image"
+        }
+      ]
+    },
+    {
+      "_id": "5a284a1ef36d281a42261d38",
+      "name": "Blue Lagoon, Fiji",
+      "description": "Ubicada en la isla volcánica de Nacula en Fiji, este paraíso del Pacífico Sur es accesible solo por hidroavión.",
+      "visited": false,
+      "location": { "lat": null, "lng": null },
+      "attachments": [
+        {
+          "url": "https://s3.amazonaws.com/arc-wordpress-client-uploads/infobae-wp/wp-content/uploads/2016/06/27193628/Islandia-Blue-Lagoon-1920-3.jpg",
+          "type": "image"
+        }
+      ]
+    },
+    {
+      "_id": "5a284a52f36d281a42261d68",
+      "name": "Playa El Nido, Philippines",
+      "description": "Ubicada en la isla de Palawan , está rodeada por imponentes acantilados y palmeras.",
+      "visited": false,
+      "location": { "lat": null, "lng": null },
+      "attachments": [
+        {
+          "url": "https://s3.amazonaws.com/arc-wordpress-client-uploads/infobae-wp/wp-content/uploads/2017/11/29131138/Playas_0017_Playa-El-Nido-en-Filipinas.jpg",
+          "type": "image"
+        }
+      ]
+    },
+    {
+      "_id": "5a284a7ff36d281a42261d70",
+      "name": "Muri Beach, Rarotonga",
+      "description": "Situada en el archipiélago de las Islas Cook, en Nueva Zelanda, está entre las remotas islas del Pacífico Sur.",
+      "visited": false,
+      "location": { "lat": null, "lng": null },
+      "attachments": [
+        {
+          "url": "https://s3.amazonaws.com/arc-wordpress-client-uploads/infobae-wp/wp-content/uploads/2017/11/29131057/Playas_0008_Muri-Beach-en-Rarotonga.jpg",
+          "type": "image"
+        }
+      ]
+    },
+    {
+      "_id": "5a284b0af36d281a42261e31",
+      "name": "Salt Whistle Bay, Mayreau Island",
+      "description": "",
+      "visited": false,
+      "location": { "lat": null, "lng": null },
+      "attachments": [
+        {
+          "url": "https://s3.amazonaws.com/arc-wordpress-client-uploads/infobae-wp/wp-content/uploads/2017/11/29131143/Playas_0018_Salt-Whistle-Bay-Isla-Mayreau-San-Vicente-y-las-Granadinas.jpg",
+          "type": "image"
+        }
+      ]
+    },
+    {
+      "_id": "5a284b35f36d281a42261e47",
+      "name": "Half Moon Bay, Antigua y Barbuda",
+      "description": "Esta bahía Media Luna tiene, en promedio, 280 días de sol al año.",
+      "visited": false,
+      "location": { "lat": null, "lng": null },
+      "attachments": [
+        {
+          "url": "https://s3.amazonaws.com/arc-wordpress-client-uploads/infobae-wp/wp-content/uploads/2017/11/29131129/Playas_0015_Half-Moon-Bay-en-Antigua-y-Barbuda.jpg",
+          "type": "image"
+        }
+      ]
+    },
+    {
+      "_id": "5a284b56f36d281a42261e8e",
+      "name": "Lucky Bay, Australia",
+      "description": "Está ubicada en el Gran Parque Nacional Esperanza y es la playa más blanca de Australia.",
+      "visited": false,
+      "location": { "lat": null, "lng": null },
+      "attachments": [
+        {
+          "url": "https://s3.amazonaws.com/arc-wordpress-client-uploads/infobae-wp/wp-content/uploads/2017/11/29131052/Playas_0007_Lucky-Bay-Australia.jpg",
+          "type": "image"
+        }
+      ]
+    },
+    {
+      "_id": "5a284b7bf36d281a42261ea6",
+      "name": "Flamenco​ Beach, Puerto Rico",
+      "description": "Se encuentra en la costa norte de Culebra. La playa se extiende por una milla alrededor de una bahía protegida, en forma de herradura.",
+      "visited": false,
+      "location": { "lat": null, "lng": null },
+      "attachments": [
+        {
+          "url": "https://s3.amazonaws.com/arc-wordpress-client-uploads/infobae-wp/wp-content/uploads/2017/11/29131116/Playas_0012_Playa-Flamenco%E2%80%8B-Puerto-Rico.jpg",
+          "type": "image"
+        }
+      ]
+    },
+    {
+      "_id": "5a284ba5f36d281a42261eb2",
+      "name": "Reynisfjara, Iceland",
+      "description": "Islandia tiene varias playas volcánicas, pero Reynisfjara es especial por sus columnas de basalto, formaciones de lava, acantilados y cuevas.",
+      "visited": false,
+      "location": { "lat": null, "lng": null },
+      "attachments": [
+        {
+          "url": "https://s3.amazonaws.com/arc-wordpress-client-uploads/infobae-wp/wp-content/uploads/2017/08/06120843/reynisfjara-beach-iceland.jpg",
+          "type": "image"
+        }
+      ]
+    },
+    {
+      "_id": "5a284bcaf36d281a42261edd",
+      "name": "Isla de los Ciervos, Mauricio",
+      "description": "Es un destino clásico por sus palmeras, arena blanca y aguas color turquesa semitransparentes con peces multicolores.",
+      "visited": false,
+      "location": { "lat": null, "lng": null },
+      "attachments": [
+        {
+          "url": "https://s3.amazonaws.com/arc-wordpress-client-uploads/infobae-wp/wp-content/uploads/2017/11/29131204/Playas_0022_La-Isla-de-los-Ciervos-Mauricio.jpg",
+          "type": "image"
+        }
+      ]
+    },
+    {
+      "_id": "5a284bedf36d281a42261ef7",
+      "name": "Fulhadhoo, Maldives",
+      "description": "Es una de las islas más bellas del Baa Atoll, un paraíso perdido en medio del océano Índico.",
+      "visited": false,
+      "location": { "lat": null, "lng": null },
+      "attachments": [
+        {
+          "url": "https://s3.amazonaws.com/arc-wordpress-client-uploads/infobae-wp/wp-content/uploads/2017/11/29131040/Playas_0004_Fulhadhoo-Maldivas.jpg",
+          "type": "image"
+        }
+      ]
+    },
+    {
+      "_id": "5a284c0cf36d281a42261f06",
+      "name": "Vaeroy, Norway",
+      "description": "Se encuentra en la remota isla de Vaeroy, que a su vez es parte del archipiélago de Lofoten.",
+      "visited": false,
+      "location": { "lat": null, "lng": null },
+      "attachments": [
+        {
+          "url": "https://s3.amazonaws.com/arc-wordpress-client-uploads/infobae-wp/wp-content/uploads/2017/11/29131101/Playas_0009_Vaeroy-Noruega.jpg",
+          "type": "image"
+        }
+      ]
+    },
+    {
+      "_id": "5a284c64f36d281a42261f42",
+      "name": "Seven Mile Beach, Cayman Islands",
+      "description": "Es una larga media luna de arena de coral en el extremo occidental de la isla Gran Caimán.",
+      "visited": false,
+      "location": { "lat": null, "lng": null },
+      "attachments": [
+        {
+          "url": "https://s3.amazonaws.com/arc-wordpress-client-uploads/infobae-wp/wp-content/uploads/2017/11/29131210/Playas_0023_Seven-Mile-Beach-Islas-Caim%C3%A1n.jpg",
+          "type": "image"
+        }
+      ]
+    },
+    {
+      "_id": "5a284ca6f36d281a42261f5f",
+      "name": "Grace Bay, Turks and Caicos",
+      "description": "",
+      "visited": false,
+      "location": { "lat": null, "lng": null },
+      "attachments": [
+        {
+          "url": "https://s3.amazonaws.com/arc-wordpress-client-uploads/infobae-wp/wp-content/uploads/2017/11/29131112/Playas_0011_Playas-Grace-Bay-Islas-Turcas-y-Caicos.jpg",
+          "type": "image"
+        }
+      ]
+    },
+    {
+      "_id": "5a284ccef36d281a42261f65",
+      "name": "Anse Lazio, Seychelles",
+      "description": "La zona es famosa por los cardúmenes de peces tropicales e, incluso, por los rayos ocasionales.",
+      "visited": false,
+      "location": { "lat": null, "lng": null },
+      "attachments": [
+        {
+          "url": "https://s3.amazonaws.com/arc-wordpress-client-uploads/infobae-wp/wp-content/uploads/2017/11/29131044/Playas_0005_Anse-Lazio-Seychelles.jpg",
+          "type": "image"
+        }
+      ]
+    },
+    {
+      "_id": "5a284d10f36d281a42261f75",
+      "name": "Pink Sand Beach, Bahamas",
+      "description": "Este lugar se ha ganado su nombre gracias a las arenas rosadas y polvorientas que bordean el paseo marítimo. Tome el sol en los apacibles alrededores o disfrute de las aguas cristalinas para nadar o bucear entre los coloridos peces.",
+      "visited": false,
+      "location": { "lat": null, "lng": null },
+      "attachments": [
+        {
+          "url": "https://s3.amazonaws.com/arc-wordpress-client-uploads/infobae-wp/wp-content/uploads/2017/11/29131215/Playas-Playa-Rosada-Bahamas.jpg",
+          "type": "image"
+        }
+      ]
+    },
+    {
+      "_id": "5a289ac3f36d281a422655ba",
+      "name": "Whalers Way Rock Pools, South Australia",
+      "description": "There’s some stunning coastal scenery on South Australia’s Eyre Peninsula (the seafood capital of Australia, no less), and it doesn’t get more rugged or dramatic than Whalers Way, a 14km track at the peninsula’s southern tip, a 30-minute drive from Port Lincoln. With sheer cliffs, caves, crevasses, blowholes and swimming spots including some serene rock pools, this is a wild and wonderful daytrip (or longer, for intrepid campers). To access the rock pools, you’ll need a permit and a key, since Whalers Way is on private land – a great excuse to get exact directions from locals. Head to the Port Lincoln Visitor Information Centre – they’ll supply you with everything you need. While there, find out about all the other things you can do on the Eyre Peninsula: cage dive with sharks, watch whales, swim with sea lions… and don’t forget to sample the seafood.",
+      "visited": false,
+      "location": { "lat": null, "lng": null },
+      "attachments": [
+        {
+          "url": "https://i.pinimg.com/736x/82/0d/e9/820de97f32bd9c1786fbc357567230a0--south-australia-lincoln.jpg",
+          "type": "image"
+        }
+      ]
+    },
+    {
+      "_id": "5a289b8ff36d281a422655e4",
+      "name": "The Basin, Rottnest Island",
+      "description": "Rottnest Island off the coast of Perth City is home to plenty of idyllic swimming beaches. But one beach in particular that has been the popular favourite for as long as people have been living and holidaying on the island. The Basin is the most perfect natural swimming pool you could possibly imagine. Two or three steps from the beach across a shallow reef platform will find you standing at the edge of a large hole in the reef, very similar in size and depth to a man-made swimming pool. The difference is, the Basin is full of crystal-clear, refreshing ocean water over soft white sand. Gentle waves wash over the reef and into the pool, seagulls hover overhead and schools of buffalo bream swim around your ankles.",
+      "visited": false,
+      "location": { "lat": null, "lng": null },
+      "attachments": [
+        {
+          "url": "https://www.rottnestfastferries.com.au/wp-content/gallery/rottnest-island/the-basin_8_08_cmyk-large.jpg",
+          "type": "image"
+        }
+      ]
+    },
+    {
+      "_id": "5a289bf6f36d281a422655fd",
+      "name": "Crystal Pool, Norfolk Island",
+      "description": "Please ask at the Visitor Information Centre for tide times and weather conditions before heading out to Crystal Pool. It can be a dangerous spot as you cannot swim in the pools on incoming or high tide. Located at Point Ross on the south western end of the Island, there is a dirt track with a rope down to the rocks. This is a challenging track and you need to be very careful.",
+      "visited": false,
+      "location": { "lat": null, "lng": null },
+      "attachments": [
+        {
+          "url": "https://www.norfolkisland.com.au/images/operators/crystal-pool/4171021608.jpg",
+          "type": "image"
+        }
+      ]
+    },
+    {
+      "_id": "5a289d58f36d281a422656d4",
+      "name": "Emma Gorge, The Kimberley",
+      "description": "The serene surroundings of Emma Gorge waterfall makes it a tranquil and relaxing place to swim. An approximate one hour picturesque walk over rocky terrain rewards you with a cool oasis and a 65 metre droplet waterfall, surrounded by cliffs adorned with greenery. Refresh and relax by the waterholes shady edge or swim to the waterfall in the deep pool of bracing, fresh water. Emma Gorge waterfall is also home to the trickle of a small thermal spring. The spring provides welcome warmth while swimming in the bracing waterhole. See if you can find it amongst the rocks.",
+      "visited": false,
+      "location": { "lat": null, "lng": null },
+      "attachments": [
+        {
+          "url": "http://www.rodthomas.com.au/images/uploads/gallery/196/karijini_039__large.jpg",
+          "type": "image"
+        }
+      ]
+    },
+    {
+      "_id": "5a353964f36d2812769a36d1",
+      "name": "Son Doong cave",
+      "description": "The largest cave in the world Son Doong cave in Vietnam it's so big that it has its own river, jungle and climate.",
+      "visited": false,
+      "location": { "lat": null, "lng": null },
+      "attachments": [
+        {
+          "url": "https://scontent-eze1-1.xx.fbcdn.net/v/t1.0-9/25158041_1933596423617794_8229161288463116351_n.jpg?oh=0512dc01561dbba2244d19665d5a1788&oe=5AD0D507",
+          "type": "image"
+        }
+      ]
+    },
+    {
+      "_id": "5a4381842bde1f04f488711d",
+      "name": "Currumbin Wildlife Sanctuary",
+      "description": "Zoological garden in Queensland",
+      "visited": false,
+      "location": { "lat": -28.135578, "lng": 153.488568 },
+      "attachments": [
+        {
+          "url": "https://scontent-eze1-1.cdninstagram.com/t51.2885-15/e35/25013986_573106669701938_7144971872659046400_n.jpg",
+          "type": "image"
+        }
+      ]
+    },
+    {
+      "_id": "5a49465f76221c003f116a1e",
+      "name": "Killcare Beach, NSW",
+      "description": "",
+      "visited": false,
+      "location": { "lat": -33.5308201, "lng": 151.36239980000005 },
+      "attachments": [
+        {
+          "url": "http://www.killcareaccommodation.com.au/wp-content/uploads/2012/10/puttybeachaerial.jpg",
+          "type": "image"
+        }
+      ]
+    },
+    {
+      "_id": "5a7337f811e61f003f5f4f41",
+      "name": "Grotte di Frasassi",
+      "description": "",
+      "visited": false,
+      "location": { "lat": 43.4002975, "lng": 12.962126500000068 },
+      "attachments": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Genga03.jpg",
+          "type": "image"
+        }
+      ]
+    },
+    {
+      "_id": "5a289dd6f36d281a422656ff",
+      "name": "Douglas-Apsley National Park, Tasmania",
+      "description": "Meanwhile, across the Bass Strait in the stunning wilderness of Tasmania, waterholes are plentiful and inviting (well, depending on the time of year – they can be a bit on the chilly side in winter). This pristine Apsley Waterhole is on the state’s east coast in Douglas-Apsley National Park, home to gorges, heathlands, waterfalls, eucalypt forests and wildflowers.",
+      "visited": false,
+      "location": { "lat": null, "lng": null },
+      "attachments": [
+        {
+          "url": "https://assets1.roadtrippers.com/uploads/poi_gallery_image/image/319872336/-strip_-quality_60_-interlace_Plane_-resize_1024x480_U__-gravity_center_-extent_1024x480/poi_gallery_image-image-c1646a80-c483-42a9-b0bf-f67f94b4899e.jpg",
+          "type": "image"
+        }
+      ]
+    },
+    {
+      "_id": "5a289ceaf36d281a42265696",
+      "name": "Blairgowrie Back Beach, Mornington Peninsula",
+      "description": "Victoria’s Mornington Peninsula, just south of Melbourne, offers charming villages, cool-climate wineries (specialising in pinot noir and chardonnay), gourmet food and some spectacular coastline. Towards the end of the peninsula, the seaside village of Blairgowrie has the calm waters of Port Phillip Bay on its front beach and the wilder Bass Strait on its back beach, which is home to some turquoise rock pools just made for floating in. To find them, time your visit with low tide when they’re exposed. There are plenty of other things to do around the area while you wait – you can even create your own “picnic trail” along the cellar doors, fromageries, chocolatiers and producers in the region.",
+      "visited": false,
+      "location": { "lat": null, "lng": null },
+      "attachments": [
+        {
+          "url": "https://campaustralia.files.wordpress.com/2015/08/blairgowriebackbeach_theloveassembly.jpg",
+          "type": "image"
+        }
+      ]
+    },
+    {
+      "_id": "5a28a217f36d281a42265901",
+      "name": "Wee Jasper Reserves, New South Wales",
+      "description": "Just an hour and 30 minutes’ drive from Parliament House in Canberra (ranked No.3 on Lonely Planet’s list of world cities to visit in 2018), is a world far removed from the cut and thrust of politics. This waterhole can be found at Micalong Creek Reserve, one of five camping spots known as the Wee Jasper Reserves. Just south of the village of Wee Jasper (named by a Scottish settler in honour of local gemstones), the reserves offer bushwalks (from 15 minutes to several days), stunning underground caves, and fishing – as well as the chance to take a well-earned dip to cool off. There are plenty of places to set up camp in shady spots right by the creek.",
+      "visited": false,
+      "location": { "lat": null, "lng": null },
+      "attachments": [
+        {
+          "url": "http://www.canberratimes.com.au/content/dam/images/1/m/5/d/2/9/image.imgtype.articleLeadwide.620x349.png/1427069134906.jpg",
+          "type": "image"
+        }
+      ]
+    },
+    {
+      "_id": "5a28a307f36d281a42265958",
+      "name": "Bitter Springs, Northern Territory",
+      "description": "Sometimes it’s not enough to float in the one spot; it’s nice to go on a bit of a journey. So hop aboard a gentle current down the warm, thermal-fed, clean, clear waters of Bitter Springs, in Elsey National Park, near Katherine. You can rent a foam pool noodle from the local caravan park to help keep you afloat as you drift for about 200 metres (650 feet), perhaps dipping beneath the surface now and then to spot freshwater turtles. Then climb out, follow the path beneath fan palms back to the beginning, and do it all over again. Just the thing after an outback drive or bushwalk, Bitter Springs is the lesser-known neighbour of the famous Mataranka Thermal Pool.",
+      "visited": false,
+      "location": { "lat": null, "lng": null },
+      "attachments": [
+        {
+          "url": "http://northernterritory.com/~/media/atdw/katherine-and-surrounds/things%20to%20do/9000438/main/6e2f7e89059e934da5f36cad9f630598.jpeg",
+          "type": "image"
+        }
+      ]
+    },
+    {
+      "_id": "5a28a3b2f36d281a422659cf",
+      "name": "Wyadup Spa, Margaret River, Western Australia",
+      "description": "Western Australia’s Margaret River region is famous for its world-class waves, but you don’t have to be a surfer to appreciate them. At Injidup Beach, near the town of Yallingup, there’s a certain spot where waves cascade through narrow gaps and over rocks into a clear rock pool, creating just the right amount of bubbles and foam to make you feel like you’re in the world’s most spectacular jacuzzi, all entirely natural – and unforgettable. Until recently this was a locals’ secret, but now the word is out, so head on down. You’ll find the Wyadup Spa (also known as the Injidup Natural Spa) at Wyadup Rocks, a 15-minute drive south of Yallingup.",
+      "visited": false,
+      "location": { "lat": null, "lng": null },
+      "attachments": [
+        {
+          "url": "https://thumbor.abcopen.net.au/Yyo0bWIZMM9ZQymgWGqL27iDz8w=/970x646/smart/https://uploads-abcopen.s3.amazonaws.com/assets/uploads/98685.jpg",
+          "type": "image"
+        }
+      ]
+    },
+    {
+      "_id": "5a437d7d2bde1f04f488711c",
+      "name": "Airlie Beach",
+      "description": "Airlie Beach, an Australian resort town on Queensland's Whitsunday Coast, is a gateway to the Whitsunday Islands and the Great Barrier Reef. Sea cruises depart from the Port of Airlie, Abell Point Marina and Shute Harbour. The Airlie Beach Lagoon is a man-made swimming area with a family-friendly beach and park. The town is also known for nightlife ranging from backpacker bars to clubs.",
+      "visited": false,
+      "location": { "lat": -20.2675, "lng": 148.716944 },
+      "attachments": [
+        {
+          "url": "http://gotravelaz.com/wp-content/uploads/images/Airlie_Beach.jpg",
+          "type": "image"
+        }
+      ]
+    },
+    {
+      "_id": "5a439609f595a2003fa188d1",
+      "name": "Somewhere in New Zealand",
+      "description": "No need to change all of the fields, only those we specify a new value for will get overwritten.",
+      "visited": false,
+      "location": { "lat": -42.76617, "lng": 172.111816 },
+      "attachments": [{ "url": "http://google.co.nz", "type": "link" }]
+    },
+    {
+      "_id": "5a439a05f595a2003fa188d2",
+      "name": "Roadtrip around Lago di Como",
+      "description": "Nesso, Varenna, Brienno, Bellaggio, Menaggio y Cernobbio son algunos de los encantadores pueblos que parecen colgados como miradores al Lago di Como, uno de los lagos más bonitos que podríamos recorrer en Italia. En este post encontrarás un itinerario sugerido para hacer una vuelta completa a este lago deteniéndose en puntos encantadores y que invitan a quedarse al menos una noche. La foto es una vista de Nesso, uno de los pueblos más bonitos junto al Lago di Como.",
+      "visited": false,
+      "location": { "lat": 46.016049, "lng": 9.257168 },
+      "attachments": [
+        {
+          "url": "https://www.google.com/maps/d/viewer?mid=1q4N6TxohFxqgZdrs6lmllSrAyhk&ll=45.99990759274293%2C9.305432296227991&z=11",
+          "type": "link"
+        },
+        {
+          "url": "https://viajes.101lugaresincreibles.com/2017/04/una-ruta-coche-nueve-pueblos-colgados-lago-di-italia/",
+          "type": "link"
+        },
+        {
+          "url": "https://cdn.pixabay.com/photo/2017/03/01/23/17/lake-como-2109916_960_720.jpg",
+          "type": "image"
+        }
+      ]
+    },
+    {
+      "_id": "5a48f7f7a05679003f3a2d43",
+      "name": "Gisborne's Rere rockslide",
+      "description": "New Zealand's most thrilling natural waterslide. Grab your boogie board or air mattress and speed down the 60-metre rock face to the pool below.",
+      "visited": false,
+      "location": { "lat": -38.540036, "lng": 177.589097 },
+      "attachments": [
+        {
+          "url": "https://resources.stuff.co.nz/content/dam/images/1/8/m/k/u/w/image.related.StuffLandscapeSixteenByNine.620x349.1gtnbs.png/1485225531708.jpg",
+          "type": "image"
+        },
+        {
+          "url": "https://www.stuff.co.nz/travel/destinations/nz/88723288/gisbornes-rere-rockslide-is-new-zealands-most-thrilling-natural-waterslide",
+          "type": "link"
+        }
+      ]
+    },
+    {
+      "_id": "5a4960f92cd870003f527ac5",
+      "name": "Mount Martha Beach, Victoria",
+      "description": "",
+      "visited": false,
+      "location": { "lat": -38.2637496, "lng": 145.01583849999997 },
+      "attachments": [
+        {
+          "url": "https://static1.squarespace.com/static/54692d0ce4b0e3880c8e6fd8/5692fd250e4c1197d24b7d36/5692fe8ad8af10b210f2f541/1452474861838/IMG_5185.jpg",
+          "type": "image"
+        }
+      ]
+    },
+    {
+      "_id": "5a4961f02cd870003f527ac6",
+      "name": "Cable Beach, Western Australia",
+      "description": "Discover 22 km of pure white sand and turquoise water at Cable Beach near Broome, WA. Get holiday information on this popular gateway to The Kimberley.",
+      "visited": false,
+      "location": { "lat": -17.9319444, "lng": 122.20805559999997 },
+      "attachments": [
+        {
+          "url": "http://www.australia.com/en-gb/places/wa/cable-beach.html",
+          "type": "link"
+        },
+        {
+          "url": "http://cdn.newsapi.com.au/image/v1/e32218ea16245c8e63cd0ece01b04185?width=1024",
+          "type": "image"
+        }
+      ]
+    },
+    {
+      "_id": "5a4962db2cd870003f527ac7",
+      "name": "Miami Beach, Queensland",
+      "description": "",
+      "visited": false,
+      "location": { "lat": -28.0645522, "lng": 153.44399079999994 },
+      "attachments": [
+        {
+          "url": "https://images.realestateview.com.au/pics/223/1930-gold-coast-highway-miami-qld-4220-real-estate-photo-1-large-11331223.jpg",
+          "type": "image"
+        }
+      ]
+    },
+    {
+      "_id": "5a49636c2cd870003f527ac8",
+      "name": "Wattamolla Beach, New South Wales",
+      "description": "Cove, lagoon, and beach on the New South Wales coast south of Sydney, within the Royal National Park.",
+      "visited": false,
+      "location": { "lat": -34.137419, "lng": 151.11746900000003 },
+      "attachments": [
+        {
+          "url": "https://christineknight.me/wp-content/uploads/2017/01/wattamolla-blog-23.jpg",
+          "type": "image"
+        },
+        {
+          "url": "https://www.bestsydneywalks.com/wp-content/uploads/2016/05/wattamolla-lagoon.jpg",
+          "type": "image"
+        },
+        {
+          "url": "https://cdn.newsapi.com.au/image/v1/44c684d8df72c4071388d0e30d1ce78b?width=1024",
+          "type": "image"
+        }
+      ]
+    },
+    {
+      "_id": "5a4964272cd870003f527ac9",
+      "name": "Shell Beach, Western Australia",
+      "description": "",
+      "visited": false,
+      "location": { "lat": -26.215, "lng": 113.77361109999993 },
+      "attachments": [
+        {
+          "url": "http://lh6.ggpht.com/-QA8ElcH67BU/UCIRI0XojoI/AAAAAAAAbjc/007tVpuRloc/shell-beach-australia-6%25255B2%25255D.jpg?imgmax=1200",
+          "type": "image"
+        }
+      ]
+    },
+    {
+      "_id": "5a52d3c20a7b3b003f4860d9",
+      "name": "Devetaki cave in Bulgaria",
+      "description": "",
+      "visited": false,
+      "location": { "lat": 43.23349229999999, "lng": 24.885454900000013 },
+      "attachments": [
+        {
+          "url": "https://scontent-eze1-1.xx.fbcdn.net/v/t1.0-9/26167014_1946220815688688_5708638876931957915_n.jpg?oh=871e9c1ad69be3fa5dd4271325fb6ae3&oe=5AB46E47",
+          "type": "image"
+        }
+      ]
+    },
+    {
+      "_id": "5a6f31b2acb0aa003f7459e6",
+      "name": "Inferno Tour around Florence",
+      "description": "",
+      "visited": false,
+      "location": { "lat": 43.7695604, "lng": 11.25581360000001 },
+      "attachments": [
+        {
+          "url": "https://itunes.apple.com/us/app/inferno-florence-guide/id733845553?mt=8",
+          "type": "link"
+        },
+        {
+          "url": "https://www.florenceinferno.com/walking-tours/inferno/",
+          "type": "link"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=hXQd0InW6jw",
+          "type": "video"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=WKuPVp-z3MA",
+          "type": "video"
+        }
+      ]
+    },
+    {
+      "_id": "5a6f589ad063b9003f6b3bff",
+      "name": "Avoid tourist crowds in Europe: Eight low-key destinations to beat the squeeze",
+      "description": "",
+      "visited": false,
+      "location": { "lat": 54.5259614, "lng": 15.255118700000025 },
+      "attachments": [
+        {
+          "url": "http://www.traveller.com.au/how-to-beat-the-big-european-squeeze-gzkrnu",
+          "type": "link"
+        },
+        {
+          "url": "https://www.scribd.com/document/370262980/Eight-Low-key-Destinations-to-Beat-the-Squeeze",
+          "type": "link"
+        }
+      ]
+    },
+    {
+      "_id": "5a6f593dd063b9003f6b3c00",
+      "name": "Take a Train Through the Lands of Harry Potter and Sherlock Holmes",
+      "description": "Rail Europe announces author-themed rail trips for the U.K.'s \"Year of Literary Heroes.\"",
+      "visited": false,
+      "location": { "lat": 51.5073509, "lng": -0.12775829999998223 },
+      "attachments": [
+        {
+          "url": "https://www.cntraveler.com/story/take-a-train-through-the-lands-of-harry-potter-and-sherlock-holmes",
+          "type": "link"
+        },
+        {
+          "url": "https://www.scribd.com/document/370263197/take-a-train-through-the-lands-of-harry-potter-and-sherlock-holmes",
+          "type": "link"
+        }
+      ]
+    },
+    {
+      "_id": "5a6f59e6d063b9003f6b3c01",
+      "name": "The optimal road trip across the U.S.",
+      "description": "This route takes you across the US and lets you stop at all landmarks in each and every state. Yes, all 48 continental ones.\n\nWith the help of a sophisticated algorithm, this road trip allows you to start in any state. Just hop on at the point that runs through your state and keep going until you’re back at your starting point!",
+      "visited": false,
+      "location": { "lat": 37.09024, "lng": -95.71289100000001 },
+      "attachments": [
+        {
+          "url": "http://www.randalolson.com/2015/03/08/computing-the-optimal-road-trip-across-the-u-s/",
+          "type": "link"
+        },
+        {
+          "url": "https://www.scribd.com/document/370263360/the-perfect-american-road-trip-has-finally-been-planned",
+          "type": "link"
+        }
+      ]
+    },
+    {
+      "_id": "5a6f5aa2d063b9003f6b3c02",
+      "name": "10 lugares imperdibles de la Costa Oeste de Estados Unidos",
+      "description": "",
+      "visited": false,
+      "location": { "lat": 37.09024, "lng": -95.71289100000001 },
+      "attachments": [
+        {
+          "url": "http://viajes.101lugaresincreibles.com/2016/11/una-ruta-coche-aire-10-imperdibles-la-costa-oeste-estados-unidos/",
+          "type": "link"
+        }
+      ]
+    },
+    {
+      "_id": "5a7244413757ea003f0158d7",
+      "name": "Sea cliff bridge, Australia",
+      "description": "Near Clifton, NSW",
+      "visited": false,
+      "location": { "lat": -34.2549865, "lng": 150.9732768 },
+      "attachments": [
+        {
+          "url": "https://scontent-eze1-1.xx.fbcdn.net/v/t1.0-9/26992429_1957729367871166_6325271700296022158_n.jpg?oh=693b6a2af70ea2c33d48485f6c9e7c6b&oe=5AEE52E4",
+          "type": "image"
+        }
+      ]
+    },
+    {
+      "_id": "5a731ddc93a272003fe58fb9",
+      "name": "Bosque de Bolonia, Paris",
+      "description": "It is the second-largest park in Paris, slightly smaller than the Bois de Vincennes on the eastern side of the city. It covers an area of 845 hectares, which is about two and a half times the area of Central Park in New York and slightly less (88%) than that of Richmond Park in London.",
+      "visited": false,
+      "location": { "lat": 48.86244019999999, "lng": 2.249172700000031 },
+      "attachments": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Bois_de_Boulogne.jpeg",
+          "type": "image"
+        }
+      ]
+    },
+    {
+      "_id": "5a7336ee11e61f003f5f4f3f",
+      "name": "Cruce Andino Patagónico",
+      "description": "Patagonia: de Bariloche a Puerto Varas por los lagos del sur.",
+      "visited": false,
+      "location": { "lat": -41.1334722, "lng": -71.3102778 },
+      "attachments": [
+        {
+          "url": "https://images.clarin.com/2016/09/17/r1bChrgq4e_720x0.jpg",
+          "type": "image"
+        },
+        {
+          "url": "https://www.clarin.com/viajes/destinos/cruce-andino-bariloche-puerto-varas_0_ryRPGXhw.html",
+          "type": "link"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=TUymNdSecDQ",
+          "type": "video"
+        },
+        { "url": "https://www.cruceandino.com", "type": "link" },
+        {
+          "url": "https://www.cruceandino.com/images/xmapa-cruce.png.pagespeed.ic.KNtb-Np-I7.webp",
+          "type": "image"
+        }
+      ]
+    },
+    {
+      "_id": "5a7337bd11e61f003f5f4f40",
+      "name": "The Pinnacles, Coromandel",
+      "description": "Hiking trail",
+      "visited": false,
+      "location": { "lat": -37.0478839, "lng": 175.71671360000005 },
+      "attachments": [
+        {
+          "url": "http://www.doc.govt.nz/parks-and-recreation/places-to-go/coromandel/places/coromandel-forest-park/things-to-do/kauaeranga-kauri-trail/",
+          "type": "link"
+        }
+      ]
+    },
+    {
+      "_id": "5a735027e4fac8003fb7b34b",
+      "name": "Orpheus Island National Park",
+      "description": "The Kimberley, Australia",
+      "visited": false,
+      "location": { "lat": -18.6160685, "lng": 146.49719949999997 },
+      "attachments": [
+        { "url": "http://www.orpheus.com.au", "type": "link" },
+        {
+          "url": "http://www.orpheus.com.au/wp-content/uploads/2017/02/Orpheus-Island-Jetty-01-V-landscape.jpg",
+          "type": "image"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=q0gjr95a_p4",
+          "type": "video"
+        }
+      ]
+    },
+    {
+      "_id": "5a75c25f0d0e87003f20e0fb",
+      "name": "Königssee, Germany",
+      "description": "En la ciudad de Berchtesgaden, ubicada en los Alpes de Bavaria y cerca de la frontera con Austria, se encuentra el Lago del Rey o Königssee, un lago alpino con agua cristalina, en el que se pueden disfrutar paseos en bote y caminatas por la orilla. También se puede visitar la iglesia de San Bartolomé -un ícono de lugar que aparece en cada postal- y su adyacente beer garden.",
+      "visited": false,
+      "location": { "lat": 47.5541796, "lng": 12.978374400000007 },
+      "attachments": [
+        {
+          "url": "https://www.infobae.com/new-resizer/HzJXEj2f19AYP6Nc0Cdw82nb-wQ=/600x0/filters:quality(100)/s3.amazonaws.com/arc-wordpress-client-uploads/infobae-wp/wp-content/uploads/2018/01/29121753/GettyImages-500429036.jpg",
+          "type": "image"
+        }
+      ]
+    },
+    {
+      "_id": "5a75c2b40d0e87003f20e0fc",
+      "name": "Münchner Residenz",
+      "description": "La Residenz Munchen es el ex palacio real de los monarcas de Bavaria y desde 1920 funciona como museo al que llegan miles de visitantes para conocer su increíble colección de arte, suntuosa decoración interior y los rincones donde pasaban sus días y noches los miembros de la realeza.",
+      "visited": false,
+      "location": { "lat": 48.1417978, "lng": 11.579485999999974 },
+      "attachments": [
+        { "url": "https://instagram.com/p/BHLKoWEjdSN/", "type": "link" },
+        {
+          "url": "https://www.infobae.com/new-resizer/Kb66AjwUcM96Jo3nPc9bV41k6u4=/600x0/filters:quality(100)/s3.amazonaws.com/arc-wordpress-client-uploads/infobae-wp/wp-content/uploads/2018/01/29121748/GettyImages-491332222.jpg",
+          "type": "image"
+        }
+      ]
+    },
+    {
+      "_id": "5a75c2e80d0e87003f20e0fd",
+      "name": "Neuschwanstein Castle",
+      "description": "El Castillo Neuschwanstein abrió al público en 1886, y es quizás uno de los más famosos del mundo. Está situado en Baviera, Alemania y fue construido por orden del llamado \"rey loco\", Luis II de Baviera. 1,4 millones de visitantes anuales llegan a este lugar, lo que lo convierte en el castillo más visitado del país. Además, fue elegido por Walt Disney como modelo para el diseño del castillo de La Bella Durmiente y fue utilizado por Andy Warhol como motivo en su litografía Neuschwanstein, en 1987.",
+      "visited": false,
+      "location": { "lat": 47.557574, "lng": 10.749800400000026 },
+      "attachments": [
+        {
+          "url": "https://www.infobae.com/new-resizer/YrR4AsL1eMv0gwfHYtN9AgKS1Wo=/600x0/filters:quality(100)/s3.amazonaws.com/arc-wordpress-client-uploads/infobae-wp/wp-content/uploads/2018/01/29121742/GettyImages-466477331.jpg",
+          "type": "image"
+        },
+        { "url": "https://instagram.com/p/Bd43PfPhWHs/", "type": "link" }
+      ]
+    },
+    {
+      "_id": "5a75c3230d0e87003f20e0fe",
+      "name": "Rakotzbrücke Devil's Bridge",
+      "description": "Su nombre es Rakotzbrücke pero también se lo conoce como el \"Puente del Diablo\". Esta increíble estructura se encuentra escondida entre la vegetación en la localidad de Kromlau y fue construida en 1860. Este semicírculo de piedra erigido sobre el agua crea en el reflejo un círculo perfecto.",
+      "visited": false,
+      "location": { "lat": 51.5363263, "lng": 14.640495299999998 },
+      "attachments": [
+        {
+          "url": "https://www.infobae.com/new-resizer/_VHe6t0DSLA98tvA7EXyf1Fj3n4=/600x0/filters:quality(100)/s3.amazonaws.com/arc-wordpress-client-uploads/infobae-wp/wp-content/uploads/2018/01/29121112/puente-del-diablo.jpg",
+          "type": "image"
+        }
+      ]
+    },
+    {
+      "_id": "5a75c3640d0e87003f20e0ff",
+      "name": "Wiblingen Abbey",
+      "description": "Wiblingen funcionaba anteriormente como una abadía benedictina, y fue fundada en el año 1093. Quizás su atractivo principal es su espectacular biblioteca, diseñada al estilo Rococó, con estatuas, columnas y un impresionante fresco en el cielorraso.",
+      "visited": false,
+      "location": { "lat": 48.36124, "lng": 9.991989999999987 },
+      "attachments": [
+        { "url": "https://instagram.com/p/BeTdPoEHpWk/", "type": "link" },
+        { "url": "https://instagram.com/p/BeAilQAh1nQ/", "type": "link" }
+      ]
+    },
+    {
+      "_id": "5a75c38d0d0e87003f20e100",
+      "name": "Rothenburg ob der Tauber",
+      "description": "Rothenburg ob der Tauber, en Franconia, Baviera, es un pueblo medieval increíblemente bien preservado. Millones de turistas arriban cada año para caminar por sus calles adoquinadas y sacarse fotografías coloridas que parecen haber sido creadas para Instagram.",
+      "visited": false,
+      "location": { "lat": 49.3801834, "lng": 10.186738800000057 },
+      "attachments": [
+        {
+          "url": "https://www.infobae.com/new-resizer/Ms_BI6-ndVXdNrWbh3qa4kLCorU=/600x0/filters:quality(100)/s3.amazonaws.com/arc-wordpress-client-uploads/infobae-wp/wp-content/uploads/2018/01/29121758/GettyImages-619638736.jpg",
+          "type": "image"
+        },
+        { "url": "https://instagram.com/p/BeY3VWHljFM/", "type": "link" }
+      ]
+    },
+    {
+      "_id": "5a75d488f6d117003fdf4e87",
+      "name": "Fairy pools, Isle of Skye, Scotland",
+      "description": "",
+      "visited": false,
+      "location": { "lat": 57.25034309999999, "lng": -6.258295399999952 },
+      "attachments": [
+        {
+          "url": "https://scontent-eze1-1.xx.fbcdn.net/v/t1.0-9/27540134_1960043067639796_8497023618963119286_n.jpg?oh=a0b262c04e3a051e9daeb067f6f8199f&oe=5B1B6B48",
+          "type": "image"
+        }
+      ]
+    },
+    {
+      "_id": "5a79c4e1ad17f5003f0ddfd8",
+      "name": "Waterfalls at Great Otway National Park, Victoria",
+      "description": "There's more to the Great Ocean Road than the picture perfect beaches. Hop off the road into the Otways and skip some stones as you dwell beside one of the park's magnificent waterfalls.",
+      "visited": false,
+      "location": { "lat": -38.7912177, "lng": 143.54192250000006 },
+      "attachments": [
+        { "url": "https://www.instagram.com/p/Be2RLgfDMZ0/", "type": "link" },
+        {
+          "url": "https://www.rastanley.com.au/img/products/large/P231.jpg?n=885",
+          "type": "image"
+        },
+        {
+          "url": "http://chatbylane.com.au/wp-content/uploads/2016/05/otway-park-2.jpg",
+          "type": "image"
+        }
+      ]
+    },
+    {
+      "_id": "5a79c651ad17f5003f0ddfd9",
+      "name": "NZ South Island Roadtrip",
+      "description": "Pathway in the Milford Sound, New Zealand.\n\nMILFORD SOUND MAJESTY ROAD TRIP\n\nExplore two totally different Southern Lakes resorts – thrilling Queenstown and tranquil Te Anau – before following New Zealand's premier wilderness highway to majestic Milford Sound. A well-beaten path this may well be, but its bookends are nothing short of sublime – Queenstown, buzzing with adrenaline and fuelled up on fabulous food and wine; and at the other end Milford Sound, New Zealand's most famous sight. In between is a series of eye-popping, often untouched wilderness landscapes, with the lovely lakeside town of Te Anau a handy base for exploring them.\n\n3–4 DAYS, 291KM / 181 MILES\n \nBEST TIME TO GO: Summer and autumn; the Homer Tunnel is sometimes closed due to avalanche risk in winter and spring.\n\n1. QUEENSTOWN\n\nNew Zealand's party and adventure capital, Queenstown is set against a dramatic backdrop.\n\nA small town with a big attitude, Queenstown is synonymous with the outdoors and crazy adventures. Then there's the other Queenstown – with the cosmopolitan restaurant, excellent vineyards and world class golf courses. If that weren't enough, Queenstown goes for gold with a sublime setting along the meandering shore of Lake Wakatipu, framed by the jagged peaks of the Remarkables.\n\nThe Drive » Head east along SH6A to Frankton, then turn onto SH6 south signposted for Te Anau. Skirting past the Kelvin Peninsula at the foot of the Remarkables, the road then follows the eastern shore of Lake Wakatipu with stunning alpine views either side of the highway. The distance from Queenstown to the Devil's Staircase is 35km.\n\n2. DEVIL'S STAIRCASE\n\nThe views along the shores of Lake Wakatipu are distractingly beautiful. Look out for the Devil's Staircase, the aptly named lookout point that punctuates a tortuous section of windy road up, over and round the lake edge. Pull over, jump out, breathe in that clear mountain air and revel in the amazing views.\n\nThe Drive » Continue along SH6. The topography flattens as you approach Five Rivers, 58km from the Devil's Staircase. Turn right for Mossburn and the junction with SH94. Turn right and drive 60km northwest to Te Anau. At the Key, 34km from Mossburn, the Fiordland mountains appear for the first time. This 136km drive should take around two hours.\n\n3. TE ANAU\n\nTe Anau - the peaceful gateway to Fiordland National Park.\n\nPeaceful, lakeside Te Anau is the main gateway to Fiordland National Park and ever-popular Milford Sound, as well as a pleasant place to while away a few days. It's large enough to have a smattering of good eateries and places to stay, but it's much easier on the liver and wallet than attention-grabbing Queenstown. Hidden away and accessible only by boat are the Te Anau Glowworm Caves: the 200m-long cave system is a magical wonderland of strange rock forms, whirlpools and waterfalls.\n\nThe Drive » Follow the signs to one of NZ's most scenic drives – the Te Anau–Milford Hwy, which traces the lake edge for most of the way to the Lake Mistletoe car park (28km).\n\n4. LAKE MISTLETOE\n\nIt's an easy amble through manuka scrub and regenerating mountain beech forest to this compact and serene glacial lake. Beside the lake, there are great views of the mountain ranges that make up some of the vast Fiordland National Park.\n\nThe Drive » Continue north on SH94 for around 1km before cutting inland at Te Anau Downs and heading up the Eglinton Valley. After another 21km you will reach Mackay Creek.\n\n5. MACKAY CREEK\n\nWoman hiker looking at Earland Falls on Routeburn Track in New Zealand.\n\nOne of many well signposted spots to pull over and soak up the Milford Rd's majesty, Mackay Creek offers an escape from the sweet but somewhat claustrophobic confines of the beech forest to the open surrounds of the Eglinton Valley. There's little here except for basic camping, picnic benches, and the wonderfully expansive views of the valley and vertiginous Earl Mountains, which provide a taste of what's to come.\n\nThe Drive » Drive for 7km along the Eglinton River valley flats and through beech forest until you see the DOC sign for Mirror Lakes.\n\n6. MIRROR LAKES\n\nThe boardwalk at Mirror Lakes takes you through beech forest and wetlands - head here early in the morning for your best chance of seeing double. The lakes area is also a good place to spot bird life.\n\nThe Drive » Continue driving north mainly through red beech forest, with occasional glimpses of the valley and mountains. It's a 20-minute, 19km drive from Mirror Lakes to Lake Gunn.\n\n7. LAKE GUNN/CASCADE CREEK\n\nVisitors to Lake Gunn can take in a 45-minute nature walk or see the sights from a kayak.\n\nThe area around Cascade Creek and Lake Gunn was a regular stopover for parties heading to Anita Bay in search of pounamu (greenstone). The Lake Gunn Nature Walk (45 minutes return) loops through tall red beech forest with side trails leading to peaceful lakeside beaches.\n\nThe Drive » From Lake Gunn/ Cascade Creek, continue driving north for 7km to the Divide. You'll pass the smaller Lake Fergus and Lake Lochie along the way.\n\n8. THE DIVIDE\n\nReproduced with permission from the 1 st edition of Lonely Planet’s New Zealand’s South Island Road Trips guidebook, researched and written by Brett Atkinson, Peter Dragicevich, Sarah Bennett and Lee Slater © 2016.\n\nStunted silver beech predominates as you make your way up to the harsher environs of the Divide. A marvellous two-hour return walk can be had along the start of the Routeburn to the alpine tussockland of Key Summit. The nature walk is a great excuse to linger, while on a good day the 360-degree panorama encompasses the Hollyford, Eglinton and Greenstone Valleys, and Lake Marian basin with pyramidal Mt Christina. The view is truly worth the effort, but in anything less than clear weather, don't even go there.\n\nThe Drive » From the Divide, SH94 snakes west, passing Marian Corner where safety gates will be closed if there is a risk of avalanche further along. The road then passes Camera Flat and climbs through the cascade-tastic upper Hollyford Valley to the Homer Tunnel. It's 16km from the Divide to the tunnel entrance.\n\n9. HOMER TUNNEL\n\nFramed by a spectacular, high-walled, ice-carved amphitheatre, the 1270m long Homer Tunnel is the only vehicular access point for Milford Sound. The tunnel is one way, so during the summer months this can mean delays of up to 20 minutes but when immersed in such a spectacular environment, who cares? Dark, rough-hewn and dripping with water, the tunnel emerges at the other end at the head of the spectacular Cleddau Valley. Any spare 'wows' might pop out about now.\n\nThe Drive » From the parking area on the Milford Sound side of the Homer Tunnel to Chasm Creek it's a 9km drive. If it's wet or has been raining, waterfalls cascading down the Cleddau Valley walls resemble brooding skies streaked with bolts of lightning.\n\n10. CHASM CREEK\n\nThe Chasm Creek Walk is an easy 20-minute return walk from the car park and well worth a stop. The forest-cloaked Cleddau River plunges through scooped-out boulders in a narrow chasm, creating deep falls and a natural rock bridge. The power of the surging waters is awe-inspiring and more than a little frightening. A quick dip is definitely off the cards. Along the way, look out for glimpses of Mt Tutoko, Fiordland's highest peak, above the beech forest.\n\nThe Drive » The final 10km to Milford Sound continues down the Cleddau Valley, passing the Tutoko River suspension bridge at around the halfway point.\n\n11. MILFORD SOUND\n\nSydney Opera House, Big Ben, the Eiffel Tower – Milford Sound is up there with the best of them, which explains why it receives about half a million visitors each year. Some 14,000 arrive on foot via the Milford Track, which ends at the Sound. Many more drive from Te Anau, but most arrive via the multitude of bus tours. But don't worry: out on the water all this humanity seems tiny compared to nature's vastness. And getting out on the water is a must. Fortunately there are cruises galore, but kayak trips offer an even more mind-blowing perspective of this monumental landscape. Although Milford Sound is best appreciated from the water or air, killer views of Mitre Peak can still be enjoyed on the 30-minute interpretive Foreshore Walk.\n\n* This is an extract from New Zealand's South Island Road Trips",
+      "visited": false,
+      "location": { "lat": -45.15267069999999, "lng": 169.89263329999994 },
+      "attachments": [
+        {
+          "url": "https://www.stuff.co.nz/travel/destinations/nz/100189536/a-wellbeaten-but-sublime-milford-sound-road-trip?cid=facebook.post.100189536",
+          "type": "image"
+        },
+        { "url": "https://pastebin.com/cndFFTme", "type": "link" }
+      ]
+    },
+    {
+      "_id": "5a79f6c5150951003fc524fb",
+      "name": "Quokkas in Rottnest Island, Western Australia",
+      "description": "It’s small, cuddly and incredibly photogenic: it’s the quokka, and Rottnest Island in Western Australia is one of the only places in the world you can see it. This pint-sized marsupial is found in abundance on , which is a short ferry ride from Perth and has been nicknamed ‘Rotto’ by locals. The island is a true sanctuary: private cars are not allowed, so most visitors explore the place on foot or by bicycle, wandering between 63 charming beaches with snorkels in hand. Kids will love the   and there are some great places to . If you’re keen to cover the entire island, the hop-on hop-off  bus is a great option.",
+      "visited": false,
+      "location": { "lat": -32.006204, "lng": 115.51233980000006 },
+      "attachments": [
+        {
+          "url": "https://www.australia.com/content/australia/en_us/things-to-do/aquatic/discover-australias-stunning-secret-islands/jcr:content/mainParsys/imagewithcaption_e3e/LargeImageTile/largeImageSrc.adapt.687.HIGH.jpg",
+          "type": "image"
+        },
+        {
+          "url": "https://www.australia.com/en-us/things-to-do/aquatic/discover-australias-stunning-secret-islands.html",
+          "type": "link"
+        }
+      ]
+    },
+    {
+      "_id": "5a79f705150951003fc524fc",
+      "name": "Lord Howe Island, Australia",
+      "description": "It’s just a quick flight from Sydney or Brisbane, but lush  feels much further away – partly because only 300 people live there and just 400 visitors are allowed at any one time. The island’s big draws are its biodiverse coastline and mountain-studded interior, both of which can be explored by novices and pros alike. Experienced adventurers should hike Mount Gower for jaw-dropping views and dive near Ball’s Pyramid, an offshore rock, to see endemic species. A less strenuous – but no less impressive – option is a glass-bottomed boat trip with . On-island accommodation ranges from , which has been run by the same family for six generations, to the recently overhauled five-star. Picture: Capella Lodge, Lord Howe Island, New South Wales.",
+      "visited": false,
+      "location": { "lat": -31.5553263, "lng": 159.0821211 },
+      "attachments": [
+        {
+          "url": "https://www.australia.com/en-us/things-to-do/aquatic/discover-australias-stunning-secret-islands.html",
+          "type": "link"
+        },
+        {
+          "url": "https://www.australia.com/content/australia/en_us/things-to-do/aquatic/discover-australias-stunning-secret-islands/jcr:content/mainParsys/imagewithcaption_7fd/LargeImageTile/largeImageSrc.adapt.687.HIGH.jpg",
+          "type": "image"
+        }
+      ]
+    },
+    {
+      "_id": "5a79f739150951003fc524fd",
+      "name": "Norfolk Island",
+      "description": "’s undulating, pine-tree-covered hillsides hide a dramatic secret: this speck in the ocean was once Australia’s most notorious penal colony. These days, it’s better known for its gorgeous scenery and fiercely proud residents (many of whom are convict descendants) – but the original penal buildings still stand in the , providing a vivid look at the past. Once you’ve brushed up on your history, play a  on one of the world’s only courses located in a World Heritage Site; laze on the golden-sand beach that fronts ; or check out the island’s immense basalt and sandstone cliffs on a . On-island accommodation and dining options are plentiful, and flights depart regularly from Sydney and Brisbane.",
+      "visited": false,
+      "location": { "lat": -29.040835, "lng": 167.95471199999997 },
+      "attachments": [
+        {
+          "url": "https://www.australia.com/content/australia/en_us/things-to-do/aquatic/discover-australias-stunning-secret-islands/jcr:content/mainParsys/imagewithcaption_dc0/LargeImageTile/largeImageSrc.adapt.687.HIGH.jpg",
+          "type": "image"
+        },
+        {
+          "url": "https://www.australia.com/en-us/things-to-do/aquatic/discover-australias-stunning-secret-islands.html",
+          "type": "link"
+        }
+      ]
+    },
+    {
+      "_id": "5a79f769150951003fc524fe",
+      "name": "Cocos (Keeling) Islands",
+      "description": "This idyllic Indian-Ocean outpost of  boasts dazzling white-sand beaches, world-class diving and a unique cultural blend – yet it receives only a handful of visitors, perhaps due to its remote location off Australia’s west coast. Those who do make the trip from Perth (via Christmas Island) will be handsomely rewarded: divers of all abilities can marvel at coral reefs and shipwrecks with ; curious historians can take a  to learn about the local Cocos Malay people; and explorers can visit the territory’s untouched southern islands on an . Don’t miss calm Cossies Beach on : it was recently voted Australia’s best beach. Virgin Australia flies to the Cocos (Keeling) Islands from Perth twice weekly. Picture: Cossies Beach, Direction Island, Cocos (Keeling) Islands.",
+      "visited": false,
+      "location": { "lat": -12.164165, "lng": 96.87095599999998 },
+      "attachments": [
+        {
+          "url": "https://www.australia.com/content/australia/en_us/things-to-do/aquatic/discover-australias-stunning-secret-islands/jcr:content/mainParsys/imagewithcaption_27b/LargeImageTile/largeImageSrc.adapt.687.HIGH.jpg",
+          "type": "image"
+        },
+        {
+          "url": "https://www.australia.com/en-us/things-to-do/aquatic/discover-australias-stunning-secret-islands.html",
+          "type": "link"
+        }
+      ]
+    },
+    {
+      "_id": "5a79f7a4150951003fc524ff",
+      "name": "Flinders Island, Tasmania",
+      "description": "The wild, green islands of the Furneaux Group dot the Bass Strait, a stormy patch of ocean that stretches between mainland Australia and Tasmania. The largest of the islands, Flinders, is the most captivating of the lot: it’s full of sandy beaches, rambling hillsides and tracts of thick bushland. Tasmanians love the place for its atmosphere and its incredible seafood, particularly the famed Flinders Island crayfish – book a  to catch some yourself. Take a walk through  to admire its moody granite mountains and little-known Aussie marsupials such as Bennetts wallabies, Tasmanian pademelons and potoroos. Or book a room at  for barefoot luxury and genuine relaxation. Flinders can be reached via plane from  or via ferry from nearby Bridport. Picture: Trousers Point Beach, Flinders Island, Tasmania.",
+      "visited": false,
+      "location": { "lat": -39.9836386, "lng": 148.052689 },
+      "attachments": [
+        {
+          "url": "https://www.australia.com/content/australia/en_us/things-to-do/aquatic/discover-australias-stunning-secret-islands/jcr:content/mainParsys/imagewithcaption_39d/LargeImageTile/largeImageSrc.adapt.687.HIGH.jpg",
+          "type": "image"
+        },
+        {
+          "url": "https://www.australia.com/en-us/things-to-do/aquatic/discover-australias-stunning-secret-islands.html",
+          "type": "link"
+        }
+      ]
+    },
+    {
+      "_id": "5a807af928ad93003f1a349b",
+      "name": "Auckland: The fresh-air stopover",
+      "description": "Blow away stale cabin air on the way across the Pacific in the nippy air of Auckland, whose fabulous natural setting provides the perfect stopover for the active traveller.\n\nEXPLORE: Hire a bicycle and hit waterfront Tamaki Drive around the eastern bays from city centre to Saint Heliers, with lovely views of the Hauraki Gulf islands. From downtown, public ferries run to Rangitoto Island, an old black-lava volcano, and to relaxing Waiheke Island, whose Mediterranean-like microclimate encourages vines and olive trees. For another great getaway, head along the rainforest-draped west coast beyond Auckland to wave-lashed Karekare Beach, or Whatipu Beach with its huge sand dunes.\n\nWHAT ELSE? The ferry ride to pretty Devonport; lively Viaduct Harbour or Ponsonby Road for evening dining; Auckland War Memorial Museum and the surrounding Domain.",
+      "visited": false,
+      "location": { "lat": -36.8484597, "lng": 174.76333150000005 },
+      "attachments": [
+        {
+          "url": "http://www.smh.com.au/content/dam/images/g/z/l/5/l/c/image.imgtype.articleLeadwide.620x349.png/1518153370141.png",
+          "type": "image"
+        },
+        {
+          "url": "http://www.traveller.com.au/stopover-cities-the-best-cities-to-break-the-journey-gzl5t4",
+          "type": "link"
+        }
+      ]
+    },
+    {
+      "_id": "5a82458bd15f22003f2402c2",
+      "name": "Trinity College, University of Cambridge, England",
+      "description": "The apple tree where Isaac Newton discovered gravity. ",
+      "visited": false,
+      "location": { "lat": 52.2042666, "lng": 0.1149084999999559 },
+      "attachments": [
+        {
+          "url": "https://scontent-eze1-1.xx.fbcdn.net/v/t31.0-8/27983125_1965141763796593_8763241528847323818_o.jpg?oh=b685484f603c4ee8e154917bef246ca1&oe=5AD892F8",
+          "type": "image"
+        }
+      ]
+    },
+    {
+      "_id": "5a8492c9d2215c003f9f2619",
+      "name": "Mostar Bridge",
+      "description": "",
+      "visited": false,
+      "location": { "lat": 43.34377480000001, "lng": 17.80775779999999 },
+      "attachments": [
+        {
+          "url": "https://static.thousandwonders.net/Mostar.640.15786.jpg",
+          "type": "image"
+        },
+        { "url": "https://www.thousandwonders.net/Mostar", "type": "link" }
+      ]
+    },
+    {
+      "_id": "5a849370d2215c003f9f261a",
+      "name": "Egeskov Mazes",
+      "description": "",
+      "visited": false,
+      "location": { "lat": 55.17619819999999, "lng": 10.490216099999998 },
+      "attachments": [
+        {
+          "url": "https://thumbs.dreamstime.com/b/egeskov-castle-7780758.jpg",
+          "type": "image"
+        },
+        {
+          "url": "https://www.egeskov.dk/sites/default/files/styles/dias/public/rightpic/labyrinter1.jpg?itok=LldfJR6K",
+          "type": "image"
+        }
+      ]
+    },
+    {
+      "_id": "5a8db0e3ff5cbc003fa4e9f2",
+      "name": "Omanawa Falls, Tauranga",
+      "description": "",
+      "visited": false,
+      "location": { "lat": -37.8364311, "lng": 176.07803539999998 },
+      "attachments": [
+        {
+          "url": "https://scontent-eze1-1.cdninstagram.com/vp/c46778d61ef44e0e1adec278d89de8b9/5B1AD9D1/t51.2885-15/e35/28153710_978041192348284_3861121834703388672_n.jpg",
+          "type": "image"
+        }
+      ]
+    },
+    {
+      "_id": "5a915a3835da7f003f625c42",
+      "name": "Havasu Falls, Grand Canyon, Arizona",
+      "description": "",
+      "visited": false,
+      "location": { "lat": 36.2470204, "lng": -112.69792760000001 },
+      "attachments": [
+        {
+          "url": "https://static1.squarespace.com/static/55fde711e4b058489a86207a/t/56ae66fdfd5d08f24527491d/1454270210174/?format=750w",
+          "type": "image"
+        },
+        {
+          "url": "http://www.bbc.com/travel/gallery/20180222-the-tiny-village-hidden-inside-the-grand-canyon",
+          "type": "link"
+        }
+      ]
+    },
+    {
+      "_id": "5a947d9acdfb78003f00fe77",
+      "name": "Cape Raoul, Tasmania",
+      "description": "5 hour return walk (7km one way), near Port Arthur.",
+      "visited": false,
+      "location": { "lat": -43.2011937, "lng": 147.76343700000007 },
+      "attachments": [
+        {
+          "url": "https://scontent-eze1-1.cdninstagram.com/vp/2a410423efd2e7a55d030d77a528abf4/5B27B3BC/t51.2885-15/e15/fr/p1080x1080/28154529_169635923675398_1639591700684865536_n.jpg",
+          "type": "image"
+        }
+      ]
+    },
+    {
+      "_id": "5a95a5a1f84275003f8e2fdf",
+      "name": "Herring Island, Melbourne",
+      "description": "",
+      "visited": false,
+      "location": { "lat": -37.8333725, "lng": 145.00283860000002 },
+      "attachments": [
+        {
+          "url": "http://www.herringisland.org/age_air.jpg",
+          "type": "image"
+        },
+        {
+          "url": "http://www.abc.net.au/news/2018-02-27/herring-island-melbournes-hidden-art-gallery/9483168",
+          "type": "link"
+        }
+      ]
+    },
+    {
+      "_id": "5a97fab0158e3c003f7e247b",
+      "name": "Gertrude Saddle Route",
+      "description": "A challenging tramping route from the Milford Road, Fiordland that starts along a pleasant alpine meadow in a stunning glacial valley, then heads up a challenging section to a saddle with an incredible view.\n\n- 7 km return via same track\n- Walking and tramping: 4-6 hr",
+      "visited": false,
+      "location": { "lat": -44.7416169, "lng": 168.0123284 },
+      "attachments": [
+        {
+          "url": "http://www.aroundtheworld.org/pictures/thumb_P2183823.JPG",
+          "type": "image"
+        },
+        {
+          "url": "http://www.aroundtheworld.org/pictures/thumb_P2183829.JPG",
+          "type": "image"
+        },
+        {
+          "url": "https://1.bp.blogspot.com/-iL6H1GXRJ9k/U0JrVmN0SLI/AAAAAAAAGjI/HhQW53mJrPs/s1600/GertrudeMAR_5320.jpg",
+          "type": "image"
+        }
+      ]
+    },
+    {
+      "_id": "5a9c3209d7abff003f7f0449",
+      "name": "Blow Hole, Big Bay, Hahei",
+      "description": "BIG BAY’S BLOW HOLE has the “WOW” effect on anyone that sees it. The underground cavern plunges 25 metres under the forest. Don’t forget your camera, you’ll only have one chance to get a picture like this one, especially as it is only accessible by boat from Hahei and when the tide is low.",
+      "visited": false,
+      "location": { "lat": -36.840114, "lng": 175.80295550000005 },
+      "attachments": [
+        { "url": "https://i.imgur.com/SpYCN6Y.png", "type": "image" },
+        {
+          "url": "https://www.backpackerguide.nz/wp-content/uploads/2015/09/VE3uLHM-e1442531980671.jpg",
+          "type": "image"
+        },
+        {
+          "url": "https://www.backpackerguide.nz/10-features-make-coromandel-unique/",
+          "type": "link"
+        }
+      ]
+    },
+    {
+      "_id": "5ab459aa08c26d003ffde7d5",
+      "name": "Queen Charlotte Track, Marlborough Sounds",
+      "description": "Gorgeous coastal views, the stunning Marlborough Sounds, and native bush – the Queen Charlotte Track is utterly unique. Combining the best of New Zealand walking and biking with a seamless network of cruise and pack transfers, resorts and lodges and great food and wine, whether you’re here for one day or five, the Queen Charlotte Track is brilliant every day.",
+      "visited": false,
+      "location": { "lat": -41.2152001, "lng": 173.98476000000005 },
+      "attachments": [
+        {
+          "url": "http://www.qctrack.co.nz/wordpress/wp-content/uploads/2015/06/homepageGallery6.jpg",
+          "type": "image"
+        },
+        {
+          "url": "http://www.qctrack.co.nz/wordpress/wp-content/uploads/2015/06/homepageGallery4.jpg",
+          "type": "image"
+        },
+        {
+          "url": "http://www.qctrack.co.nz/wordpress/wp-content/uploads/2015/06/homepageGallery1.jpg",
+          "type": "image"
+        },
+        { "url": "http://www.qctrack.co.nz", "type": "link" }
+      ]
+    },
+    {
+      "_id": "5ab56f51a40e10003fef0526",
+      "name": "The Hague, Netherlands",
+      "description": "With a metropolitan population of more than 1 million, it is the third-largest city in the Netherlands, after Amsterdam and Rotterdam.  he Hague is the seat of the cabinet of the Netherlands, the States General, the Supreme Court, and the Council of State, but the city is not the capital of the Netherlands, which constitutionally is Amsterdam.",
+      "visited": false,
+      "location": { "lat": 52.0704978, "lng": 4.3006999000000405 },
+      "attachments": [
+        {
+          "url": "http://room5.trivago.it/cosa-vedere-a-l-aia-olanda/",
+          "type": "link"
+        },
+        {
+          "url": "http://trv-checkin.s3-eu-central-1.amazonaws.com/wp-content/uploads/2015/02/Paleistuin.jpg",
+          "type": "image"
+        },
+        {
+          "url": "http://trv-checkin.s3-eu-central-1.amazonaws.com/wp-content/uploads/2015/02/Noordeinde.jpg",
+          "type": "image"
+        },
+        {
+          "url": "http://trv-checkin.s3-eu-central-1.amazonaws.com/wp-content/uploads/2015/02/Anna-Paulownaplein2.jpg",
+          "type": "image"
+        },
+        {
+          "url": "http://trv-checkin.s3-eu-central-1.amazonaws.com/wp-content/uploads/2015/02/hofje_van_wouw.jpg",
+          "type": "image"
+        }
+      ]
+    },
+    {
+      "_id": "5ab7eec7d722ae003fa92dc7",
+      "name": "Isola del Liri, Lazio",
+      "description": "Esta pequeña ciudad italiana tiene algo que la vuelve muy particular: como muchos pueblos y ciudades de Europa, esta atravesada por un rio, pero la particularidad es que ese rio (Liri) se divide en dos cursos formando en un punto una isla, y ademas en pleno centro del pueblo, el rio da un gran salto en una cascada. El poblado de Isola del Liri se encuentra en la region de Lazio y la cascada que lo atraviesa se llama simplemente “Cascada Grande”. No hablamos de un pequeño salto, sino de un salto de proporciones con 27 metros de altura.",
+      "visited": false,
+      "location": { "lat": 41.6773452, "lng": 13.574870799999985 },
+      "attachments": [
+        {
+          "url": "https://101lugaresincreibles.com/wp-content/uploads/2017/05/Cascata_Isola_del_Liri.jpg",
+          "type": "image"
+        },
+        {
+          "url": "https://instagram.fcor4-1.fna.fbcdn.net/vp/aec2a12f0dc79a30ba659360a55cff4e/5B74F44E/t51.2885-15/e35/18381820_422080461496561_6911548805372444672_n.jpg",
+          "type": "image"
+        }
+      ]
+    },
+    {
+      "_id": "5ac3ff632ceedf003f060404",
+      "name": "Maori Rock Carvings, Lake Taupo, NZ",
+      "description": "",
+      "visited": false,
+      "location": { "lat": -38.7331714, "lng": 176.00763210000002 },
+      "attachments": [
+        {
+          "url": "https://www.greatlaketaupo.com/media/81570/Sail-Barbary-to-Maori-Rock-Carvings-Scenic-cruises-Lake-Taupo_GalleryLarge.DKQoTA.jpg",
+          "type": "image"
+        },
+        {
+          "url": "https://www.greatlaketaupo.com/things-to-do/must-do/maorirockcarvings/",
+          "type": "link"
+        }
+      ]
+    },
+    {
+      "_id": "5ac4e07a0e472a003ff33354",
+      "name": "Zealandia Ecosanctuary, Wellington",
+      "description": "ZEALANDIA is the world’s first fully-fenced urban ecosanctuary, with an extraordinary 500-year vision to restore a Wellington valley’s forest and freshwater ecosystems as closely as possible to their pre-human state. The 225 hectare ecosanctuary is a groundbreaking conservation project that has reintroduced 18 species of native wildlife back into the area, 6 of which were previously absent from mainland New Zealand for over 100 years. ",
+      "visited": false,
+      "location": { "lat": -41.290085, "lng": 174.753558 },
+      "attachments": [
+        {
+          "url": "https://farm1.nzstatic.com/_proxy/imageproxy_1y/serve/68a631c2-057a-4c88-baf4-d4591771bd07-2014924143021.jpg?outputformat=jpg&quality=80&transformationsystem=letterbox&width=940&height=530&source=https://media.newzealand.com/getattachment/68a631c2-057a-4c88-baf4-d4591771bd07/68a631c2-057a-4c88-baf4-d4591771bd07-2014924143021.jpg&securitytoken=7D87FD168268DA0203DC140C3A331C69",
+          "type": "image"
+        },
+        { "url": "https://www.visitzealandia.com/", "type": "link" }
+      ]
+    },
+    {
+      "_id": "5ad38a81f915a1003fa9b2eb",
+      "name": "Grüner See, Austria",
+      "description": "Austria's Atlantis: the amazing transformation of the Gruner See each spring.\n\nGrüner See is best visited in spring, when snow melt brings the lake back to life.\n\nGrüner See, a \"green lake\" in Austria's Styria region which comes and goes with the seasons. In winter, it is nothing more than a dribble of icy water. In spring, when the snow in the Hochschwab Mountains begins to melt, the lake swells with crystalline run-off. Slowly the water level rises, drowning benches and footpaths, trees and signposts. As the park shrinks, so the pond expands.\n\nSo clear is the snow melt, and so pure the landscape into which it streams, you can barely tell one from the other. It's as though someone has cast a luminous blanket over this valley; it barely refracts the vision of lush meadows beneath it. Yet the earth's colours intensify so dramatically through this prism one can hardly believe they are real: the grasses waving lazily beneath the water's surface are so artificially green it's almost as if the lake has been flooded with absinthe.\n\nLocated a couple of hours' drive south-west of Vienna, Grüner See is a treasure in both the physical and the figurative sense, a place that's little-known among travellers drawn to Austria's elegant cities, time-honoured traditions and lavishly powdered ski slopes.",
+      "visited": false,
+      "location": { "lat": 47.5415625, "lng": 15.055764599999975 },
+      "attachments": [
+        {
+          "url": "https://static.ffx.io/images/$zoom_1%2C$multiply_0.3905858788182273%2C$ratio_1.777778%2C$width_1997%2C$x_0%2C$y_116/t_crop_custom/t_sharpen%2Cq_auto%2Cf_auto/4d720967fc5c70592938a11be8b4858a1407407f",
+          "type": "image"
+        },
+        {
+          "url": "https://static.ffx.io/images/$zoom_1%2C$multiply_0.3905858788182273%2C$ratio_1.777778%2C$width_1997%2C$x_0%2C$y_116/t_crop_custom/t_sharpen%2Cq_auto%2Cf_auto/b17a1b627d9ffaed8929527660b68601e934c0e7",
+          "type": "image"
+        },
+        {
+          "url": "https://www.smh.com.au/lifestyle/austrias-atlantis-the-amazing-transformation-of-the-gruner-see-each-spring-20180323-h0xvxo.html",
+          "type": "link"
+        }
+      ]
+    },
+    {
+      "_id": "5ad5fd97788a00003f95e92b",
+      "name": "Top of Roys Peak, Wanaka",
+      "description": "Sunrise from the top of Roys Peak is often described as \"the most awe-inspiring wonder to behold\".\n",
+      "visited": false,
+      "location": { "lat": -44.7, "lng": 169.04999999999995 },
+      "attachments": [
+        {
+          "url": "https://resources.stuff.co.nz/content/dam/images/1/p/e/o/b/5/image.related.StuffLandscapeSixteenByNine.620x349.1peop8.png/1523846045416.jpg",
+          "type": "image"
+        }
+      ]
+    },
+    {
+      "_id": "5ad5fdc9788a00003f95e92c",
+      "name": "Bay of Islands, North Island, NZ",
+      "description": "",
+      "visited": false,
+      "location": { "lat": -35.1843701, "lng": 174.16461630000003 },
+      "attachments": [
+        {
+          "url": "https://resources.stuff.co.nz/content/dam/images/1/p/e/o/y/1/image.related.StuffLandscapeSixteenByNine.620x349.1peop8.png/1523846045416.jpg",
+          "type": "image"
+        },
+        {
+          "url": "https://www.stuff.co.nz/travel/destinations/nz/103141772/north-island-snubbed-on-worlds-ultimate-travel-bucket-list?cid=facebook.post.103141772",
+          "type": "link"
+        }
+      ]
+    },
+    {
+      "_id": "5ad5fe13788a00003f95e92d",
+      "name": "Tongariro National Park",
+      "description": "Hike through the barren but somehow still sublimely beautiful dual Tongariro National Park, the first in the world to receive cultural World Heritage status.",
+      "visited": false,
+      "location": { "lat": -39.272709, "lng": 175.5802278 },
+      "attachments": [
+        {
+          "url": "https://resources.stuff.co.nz/content/dam/images/1/p/e/o/b/8/image.related.StuffLandscapeSixteenByNine.620x349.1peop8.png/1523846045416.jpg",
+          "type": "image"
+        },
+        {
+          "url": "https://www.stuff.co.nz/travel/destinations/nz/103141772/north-island-snubbed-on-worlds-ultimate-travel-bucket-list?cid=facebook.post.103141772",
+          "type": "link"
+        }
+      ]
+    },
+    {
+      "_id": "5ad91e2ccf04fa003f0f4ae3",
+      "name": "Pouto Peninsula, Northland",
+      "description": "Pouto: sand, shipwrecks and nature at its best.\n\nPouto is the southern beginning of New Zealands longest driveable beach which stretches for over 100kms. Always check the tides and winds for safety.",
+      "visited": false,
+      "location": { "lat": -36.3906303, "lng": 174.12349410000002 },
+      "attachments": [
+        { "url": "https://i.imgur.com/CmrjXzA.png", "type": "image" }
+      ]
+    },
+    {
+      "_id": "5adaa6ebfa5279003f92599d",
+      "name": "Nepean River",
+      "description": "Nepean River in Sydney's west is the perfect spot for an adventure filled weekend! Discover some of the many adrenaline-charged attractions, or enjoy bushwalking, cycling trails or a fishing charter.",
+      "visited": false,
+      "location": { "lat": -33.7599129, "lng": 150.68187779999994 },
+      "attachments": [
+        {
+          "url": "https://scontent.fcor4-1.fna.fbcdn.net/v/t1.0-9/30739752_10157372914109502_1000322794048716800_n.jpg?_nc_cat=0&oh=31106d942aa5f17a92ab6913edfcd37b&oe=5B72BBD9",
+          "type": "image"
+        }
+      ]
+    },
+    {
+      "_id": "5b0a565b117c0a003faebe50",
+      "name": "Hooker Valley Track, New Zealand",
+      "description": "Recommended by Anthony from work",
+      "visited": false,
+      "location": { "lat": -43.71812569999999, "lng": 170.0939684 },
+      "attachments": [
+        {
+          "url": "https://www.newzealand.com/au/feature/hooker-valley-track/",
+          "type": "link"
+        },
+        {
+          "url": "https://www.doc.govt.nz/pagefiles/173989/hooker-valley-2-1200.jpg",
+          "type": "image"
+        }
+      ]
+    },
+    {
+      "_id": "5b0a56a8117c0a003faebe51",
+      "name": "Kangaroo Valley",
+      "description": "Wild wombats",
+      "visited": false,
+      "location": { "lat": -34.7341513, "lng": 150.52586480000002 },
+      "attachments": [
+        {
+          "url": "https://spiritlevel.com.au/wp-content/uploads/2012/08/KANGAROO-VALLEY-002.jpg",
+          "type": "image"
+        }
+      ]
+    },
+    {
+      "_id": "5b122390f7efbb003f8e0dc7",
+      "name": "Fingal Bay & Shark Island, Port Stephens, NSW",
+      "description": "Visiting Fingal Beach, decided to time it nicely with the tides and walk out across the Fingal Bay Spit to Shark Islands and then out to the Light House. Once on the island the tracks are well maintained and its easy to get out to the point. Beautiful spot once out there. If you check the tides, its easy to get a few hours out on the island once you've walked out.",
+      "visited": false,
+      "location": { "lat": -32.750155, "lng": 152.163187 },
+      "attachments": [
+        {
+          "url": "http://nnimgt-a.akamaihd.net/transform/v1/crop/frm/iKQx4aiD4Q7fvCgDvFeGgz/567039b3-fcb3-4bf6-9108-96c9f6ae89cb.jpg/r0_108_2126_1303_w1200_h678_fmax.jpg",
+          "type": "image"
+        }
+      ]
+    },
+    {
+      "_id": "5b1392c26dfaca003f3aa20f",
+      "name": "The NSW-QLD border at Tweed Head",
+      "description": "",
+      "visited": false,
+      "location": { "lat": -28.166667, "lng": 153.53333299999997 },
+      "attachments": [
+        {
+          "url": "http://www.abc.net.au/news/image/7303020-3x2-940x627.jpg",
+          "type": "image"
+        }
+      ]
+    },
+    {
+      "_id": "5b38c101265df3003f85f00e",
+      "name": "Mornington Peninsula near Melbourne",
+      "description": "",
+      "visited": false,
+      "location": { "lat": -38.2854053, "lng": 145.09344899999996 },
+      "attachments": [
+        {
+          "url": "https://www.planetware.com/photos-large/AUS/australia-mornington-peninsula-point-nepean.jpg",
+          "type": "image"
+        }
+      ]
+    },
+    {
+      "_id": "5b38c172265df3003f85f00f",
+      "name": "Croatia Highlights",
+      "description": "",
+      "visited": false,
+      "location": { "lat": 45.1, "lng": 15.200000100000011 },
+      "attachments": [
+        {
+          "url": "https://www.lanacion.com.ar/2144399-croacia-de-zagreb-a-dubrovnik-y-la-isla-donde-messi-pasa-sus-vacaciones",
+          "type": "link"
+        },
+        {
+          "url": "https://bucket1.glanacion.com/anexos/fotos/10/2707810w380.jpg",
+          "type": "image"
+        }
+      ]
+    },
+    {
+      "_id": "5d3a71d4de7118003fee02ce",
+      "name": "Angels Landing Trail",
+      "description": "Near Las Vegas",
+      "visited": false,
+      "location": { "lat": 37.2720661, "lng": -112.9501224 },
+      "attachments": [
+        {
+          "url": "https://www.rei.com/adventures/assets/adventures/images/trip/core/northamerica/wzs_hero",
+          "type": "image"
+        }
+      ]
+    },
+    {
+      "_id": "5d94ea03f032d0003f466733",
+      "name": "Praia de Rodas, Galicia",
+      "description": "\"Galifornia\"",
+      "visited": false,
+      "location": { "lat": 42.2238459, "lng": -8.902805100000023 },
+      "attachments": [
+        {
+          "url": "https://bucket2.glanacion.com/anexos/fotos/73/3110173w740.jpg",
+          "type": "image"
+        },
+        {
+          "url": "https://bucket2.glanacion.com/anexos/fotos/73/3110173w740.jpg",
+          "type": "image"
+        }
+      ]
+    }
+  ]
+}

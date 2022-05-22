@@ -1,0 +1,6 @@
+mutation AddPlace($object: places_insert_input!) {
+  insert_places_one(object: $object) {
+    id
+    name
+  }
+}
